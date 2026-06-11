@@ -124,27 +124,26 @@
     <!-- hero-area,start  -->
      <section class="tp-hero-area tp-hero-solid-2">
         <div class="container-wide">
-            <div class="tp-hero-spacing-3 tp-hero-bg p-relative br-20 fix" data-background="assets/img/hero/hero-bg-3.jpg">
-                <div class="tp-badge-circle tp-hero-badge">
-                    <a href="contact.html">Get <br>
-                    Your Free <br>
-                    Quote</a>
+<div class="tp-hero-spacing-3 tp-hero-bg p-relative br-20 fix"
+     style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/img/img/1.jpeg'); background-size: cover; background-position: center;">                <div class="container">
+    <div class="row">
+        <div class="col-xl-5 col-lg-8 col-md-10">
+            <div class="tp-hero-heading">
+                <h1 class="tp-section-title-larg tp-hero-title-mid tp-text-white mb-30 tp_fade_anim" data-delay=".1" data-duration=".9">
+                    Comfortable<br>
+                    Secure<br>
+                    Living.
+                </h1>
+                <div class="tp_fade_anim" data-delay=".3" data-duration=".9">
+                    <p class="tp-hero-deg fw-500 tp-text-white">
+                        Welcome to Goddess Accommodation, offering premium PG facilities for boys and girls with fully furnished rooms, nutritious meals, high-speed Wi-Fi, housekeeping, and 24×7 security.
+                    </p>
                 </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-5 col-lg-8 col-md-10">
-                            <div class="tp-hero-heading">
-                                <h1 class="tp-section-title-larg tp-hero-title-mid mb-30 tp_fade_anim" data-delay=".1" data-duration=".9">Innovation
-                                Excellence
-                                Growth.</h1>
-                                <div class="tp_fade_anim" data-delay=".3" data-duration=".9"> 
-                                    <p class="tp-hero-deg fw-500 tp-text-black">The largest privately held real estate investors
-                                    and managers in the world.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
             </div>
         </div>
      </section>
@@ -157,19 +156,17 @@
                 <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".2" data-duration=".9">
                     <div class="tpservices br-20 tp-bg-orange p-relative fix ">
                         <div class="tpservices__content z-index-1">
-                            <h2 class="tpservices__title mb-10 tp-text-white">What we do</h2>
-                            <p class="mb-20 tp-text-white">We maintain this by ensuring
-                            transparency and professional conduct
-                            in every aspect.</p>
+                            <h2 class="tpservices__title mb-10 tp-text-white">Comfortable Accommodation</h2>
+                            <p class="mb-20 tp-text-white">Fully furnished rooms for boys and girls with modern amenities, comfortable beds, wardrobes, and a homely environment.</p>
                             <a class="tpservices__btn" href="services-details.html">
-                                <span class="mr-5">Our Solutions</span>
+                                <span class="mr-5">View Rooms</span>
                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
                             </a>
                         </div>
-                        <div class="tpservices__back-text">landor</div>
+                        <div class="tpservices__back-text">GOODESS</div>
                         <div class="tpservices__img p-absolute">
                             <img src="assets/img/services/services-img-5.png" alt="">
                         </div>
@@ -178,19 +175,17 @@
                 <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".3" data-duration=".9">
                     <div class="tpservices br-20 tp-bg-secoundery p-relative fix ">
                         <div class="tpservices__content z-index-1">
-                            <h3 class="tpservices__title mb-10">Core values</h3>
-                            <p class="mb-20">We maintain this by ensuring
-                            transparency and professional conduct
-                            in every aspect.</p>
+                            <h3 class="tpservices__title mb-10">Modern Facilities</h3>
+                            <p class="mb-20"> Enjoy high-speed Wi-Fi, nutritious meals, housekeeping, laundry support, RO water, and uninterrupted power backup.</p>
                             <a class="tpservices__btn" href="services-details.html">
-                                <span class="mr-5">Our Solutions</span>
+                                <span class="mr-5">Explore Facilities</span>
                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
                             </a>
                         </div>
-                        <div class="tpservices__back-text">landor</div>
+                        <div class="tpservices__back-text">GOODESS</div>
                         <div class="tpservices__img p-absolute">
                             <img src="assets/img/services/services-img-6.png" alt="">
                         </div>
@@ -199,19 +194,17 @@
                 <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".4" data-duration=".9">
                     <div class="tpservices br-20 tp-bg-gray p-relative fix ">
                         <div class="tpservices__content z-index-1">
-                            <h3 class="tpservices__title mb-10">Our impact</h3>
-                            <p class="mb-20">We maintain this by ensuring
-                            transparency and professional conduct
-                            in every aspect.</p>
-                            <a class="tpservices__btn" href="services-details.html">
-                                <span class="mr-5">Our Solutions</span>
+                            <h3 class="tpservices__title mb-10">Safety & Security</h3>
+                            <p class="mb-20">Your safety comes first with CCTV surveillance, secure entry systems, and a peaceful living environment.</p>
+                            <a class="tpservices__btn" href="contact.php">
+                                <span class="mr-5">Contact Us</span>
                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
                             </a>
                         </div>
-                        <div class="tpservices__back-text">landor</div>
+                        <div class="tpservices__back-text">GOODESS</div>
                         <div class="tpservices__img p-absolute">
                             <img src="assets/img/services/services-img-7.png" alt="">
                         </div>
@@ -225,42 +218,40 @@
     <!-- fact-area,start  -->
      <section class="tp-fact-area">
         <div class="container-wide">
-            <div class="tp-fact-spacing br-20 tp-overlay tp-bg fix jarallax" data-background="assets/img/fact/fact-bg.jpg">
+            <div class="tp-fact-spacing br-20 tp-overlay tp-bg fix jarallax" data-background="assets/img/img/2.jpeg">
                 <div class="container">
                     <div class="tp-fact-wrap tp-flex-center tp-justify-center">
                         <div class="tpfact">
                             <div class="tpfact__content">
                                 <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="40"></span>
+                                    <span class="odometer" data-count="500"></span>
                                     <span class="tpfact__title-div">+</span>
                                 </h3>
-                                <p class="margin-0">Projects completed</p>
+                                <p class="margin-0">Happy Residents</p>
                             </div>
                         </div>
                         <div class="tpfact">
                             <div class="tpfact__content">
                                 <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="60"></span>
-                                    <span class="tpfact__title-div">+</span>
+                                    <span class="odometer" data-count="50"></span>
+                                    <span class="tpfact__title-div">24/7</span>
                                 </h3>
-                                <p class="margin-0">Projects development</p>
+                                <p class="margin-0">Security & CCTV Monitoring</p>
                             </div>
                         </div>
                         <div class="tpfact">
                             <div class="tpfact__content">
                                 <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="1.2"></span>
-                                    <span class="tpfact__title-text">B</span>
+                                    <span class="odometer" data-count="24"></span>
                                     <span class="tpfact__title-div">+</span>
                                 </h3>
-                                <p class="margin-0">Total projects cost</p>
+                                <p class="margin-0">Years of Trusted Service</p>
                             </div>
                         </div>
                         <div class="tpfact">
                             <div class="tpfact__content">
                                 <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="20"></span>
-                                    <span class="tpfact__title-text">M</span>
+                                    <span class="odometer" data-count="10"></span>
                                     <span class="tpfact__title-div">+</span>
                                 </h3>
                                 <p class="margin-0">Square feet of property</p>
@@ -280,7 +271,15 @@
                 <div class="row">
                     <div class="col-xl-8 col-md-7">
                         <div class="tp-section-title-wrap">
-                            <span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">About us</span>
+                            <span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">
+    About Us
+</span>
+
+<h2 class="tp-section-title tp_fade_anim" data-duration=".9" data-delay=".3">
+    Providing Safe & Comfortable <br>
+    Accommodation For Students <br>
+    And Working Professionals.
+</h2><span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">About us</span>
                             <h2 class="tp-section-title tp_fade_anim" data-duration=".9" data-delay=".3">Delivering remarkable quality <br>
                                 in every inspiring space
                                 we<span>have build.</span></h2>
@@ -291,8 +290,8 @@
                             <div class="tp-about-exprience p-relative">
                                 <div class="tp-about-exprience-content z-index-1">
                                     <span>Years of <br>
-                                    Experience</span>
-                                    <h3 class="tp-about-exprience-num">19</h3>
+Experience</span>
+<h3 class="tp-about-exprience-num">10</h3>
                                 </div>
                                 <div class="tp-about-exprience-shape p-absolute">
                                     <img src="assets/img/about/about-shape-2.png" alt="">
@@ -306,29 +305,30 @@
                 <div class="col-lg-6">
                     <div class="tp-about-image br-20 p-relative">
                         <div class="anim-zoomin-wrap br-20">
-                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                           <img class="anim-zoomin" src="assets/img/img/Home_img.jpeg" alt="">
                         </div>
-                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
                        <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border pb-65 mb-35 tp_fade_anim" data-duration=".9" data-delay=".3">
-                          <p class="mb-30">We are a privately owned real estate company dedicated to delivering
-                            innovative property solutions across the globe. Our team specializes
-                            in real estate investment, property management, and development,
-                            with a clear focus on quality and sustainability. By combining market
-                            expertise with a client-first approach</p>
-                            <h3 class="tp-about-border-text p-relative">Let’s shape something remarkable !</h3>
+                          <p class="mb-30">
+    Goddess Accommodation provides premium PG accommodation for boys and girls with a focus on comfort, safety, and convenience. Our fully furnished rooms and modern amenities create a welcoming environment for students and working professionals.
+</p>
+
+<h3 class="tp-about-border-text p-relative">
+    Your Home Away From Home!
+</h3>
                        </div>
                        <div class="row tp-align-center tp_fade_anim" data-duration=".9" data-delay=".4">
                             <div class="col-md-6">
-                                <p class="tp-about-cta-deg">If you have any question? Feel free
-                                    can contact with team.</p>
+                                <p class="tp-about-cta-deg">
+    Looking for a safe and affordable PG? Contact our team today.
+</p>
                             </div>
                             <div class="col-md-6">
                                 <div class="tp-cta-phone tp-cta-phone-mid">
-                                    <a class="tp-flex-center" href="tel:+99926542563">
+                                    <a class="tp-flex-center" href="tel:+919540936464">
                                         <span class="tp-cta-phone-icon tp-cta-phone-icon-mid mr-10">
                                             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M12.496 7.00013C12.152 7.00013 11.88 6.72013 11.88 6.38414C11.88 6.08814 11.584 5.47214 11.088 4.93614C10.6 4.41615 10.064 4.11215 9.616 4.11215C9.272 4.11215 9 3.83215 9 3.49615C9 3.16016 9.28 2.88016 9.616 2.88016C10.416 2.88016 11.256 3.31215 11.992 4.08815C12.68 4.81615 13.12 5.72014 13.12 6.37614C13.12 6.72013 12.84 7.00013 12.496 7.00013Z" fill="currentcolor"/>
@@ -337,14 +337,14 @@
                                             <path d="M15.977 13.064C15.977 13.288 15.937 13.52 15.857 13.744C15.833 13.808 15.809 13.872 15.777 13.936C15.641 14.224 15.465 14.496 15.233 14.752C14.841 15.184 14.409 15.496 13.921 15.696C13.913 15.696 13.905 15.704 13.897 15.704C13.425 15.8959 12.913 15.9999 12.361 15.9999C11.545 15.9999 10.673 15.808 9.75303 15.416C8.83304 15.024 7.91304 14.496 7.00105 13.832C6.68905 13.6 6.37705 13.368 6.08105 13.12L8.69704 10.504C8.92104 10.672 9.12103 10.8 9.28903 10.888C9.32903 10.904 9.37703 10.928 9.43303 10.952C9.49703 10.976 9.56103 10.984 9.63303 10.984C9.76903 10.984 9.87303 10.936 9.96103 10.848L10.569 10.248C10.769 10.048 10.961 9.89599 11.145 9.79999C11.329 9.68799 11.513 9.63199 11.713 9.63199C11.865 9.63199 12.025 9.66399 12.201 9.73599C12.377 9.80799 12.561 9.91199 12.761 10.048L15.409 11.928C15.617 12.072 15.761 12.24 15.849 12.44C15.929 12.64 15.977 12.84 15.977 13.064Z" fill="currentcolor"/>
                                             </svg>
                                         </span>
-                                        +999 2654 2563
+                                        +91 95409 36464
                                     </a>
                                 </div>
                             </div>
                        </div>
                         <div class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim" data-duration=".9" data-delay=".4" data-ease="bounce">
                             <a href="about.html" class="tp-btn">
-                                <span class="tp-btn-text">Learn More</span>
+                                <span class="tp-btn-text">Know more</span>
                                 <span class="tp-btn-icon">
                                     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -361,7 +361,7 @@
     <!-- about-area,end  -->
 
      <!-- project-area,start  -->
-      <section class="tp-project-area">
+      <!-- <section class="tp-project-area">
         <div class="container-wide tp-project-spacing-2 p-relative">
             <div class="tp-project-back-text p-absolute">Selected work</div>
                 <div class="project-slider-wrap tp-project-slider-wrap">
@@ -371,8 +371,7 @@
                                 <div class="container">
                                     <div class="tp-project-main p-relative">
                                         <div class="tp-project-content">
-                                            <h3 class="tp-project-title mb-30 text-line-anim fix" data-duration=".7">Mixed use <br>
-                                            development</h3>
+                                            <h3 class="tp-project-title mb-30 text-line-anim fix" data-duration=".7">Mixed </h3>
                                             <div class="tp_fade_anim" data-delay=".2">
                                                 <p>A flowing, organic design inspired by the <br>
                                                     movement and rhythm of the sea.</p>
@@ -459,12 +458,12 @@
                     </div>
                 </div>
             </div>
-      </section>
+      </section> -->
      <!-- project-area,end  -->
 
 
       <!-- team-area,start  --> 
-        <section class="tp-team-area tp-team-spacing tp-team-spacing-3 fix">
+        <!-- <section class="tp-team-area tp-team-spacing tp-team-spacing-3 fix">
             <div class="container">
                 <div class="tp-team-heading-2 mb-65">
                     <div class="row tp-justify-center">
@@ -615,7 +614,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
       <!-- team-area,end  -->
 
 
@@ -629,41 +628,37 @@
                             <div class="swiper-slide">
                                 <div class="tp-testimonail">
                                     <h3 class="tp-testimonail-title tp-text-center">
-                                        Working with Landor was the best decision we made. <br>
-                                        They understood our needs, guided us step by step, and <br>
-                                        found us the perfect property. Professional, honest, <br>
-                                        and always available!
-                                    </h3>
+    Staying at Goddess Accommodation has been a wonderful experience. 
+    The rooms are clean, the food is hygienic, and the staff is always helpful. 
+    I feel safe and comfortable here, just like at home.
+</h3>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="tp-testimonail">
                                     <h3 class="tp-testimonail-title tp-text-center">
-                                        Our experience with Landor was truly exceptional. <br>
-                                        They paid attention to every detail, kept us informed, and <br>
-                                        made the entire process smooth and stress-free. <br>
-                                        efficient, and highly professional!
-                                    </h3>
+    As a working professional, finding a reliable PG was important to me. 
+    The facilities, Wi-Fi, housekeeping, and security exceeded my expectations. 
+    Highly recommended for anyone looking for a hassle-free stay.
+</h3>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="tp-testimonail">
                                     <h3 class="tp-testimonail-title tp-text-center">
-                                        We couldn’t have asked for a better partner than Landor. <br>
-                                        From start to finish, they were attentive, proactive, and <br>
-                                        committed to finding exactly what we needed. Honest, <br>
-                                        dedicated, and always approachable!
-                                    </h3>
+    The environment is peaceful and perfect for students. 
+    The rooms are spacious, meals are served on time, and the management 
+    is always available whenever assistance is needed.
+</h3>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="tp-testimonail">
                                     <h3 class="tp-testimonail-title tp-text-center">
-                                        Landor exceeded all our expectations. <br>
-                                        They guided us with patience, answered every question, <br> and 
-                                        delivered exactly what we were looking for. Dependable, <br>
-                                        friendly, and truly client-focused!
-                                    </h3>
+    Goddess Accommodation truly feels like a home away from home. 
+    The facilities are excellent, the location is convenient, and the security 
+    arrangements give complete peace of mind.
+</h3>
                                 </div>
                             </div>
                         </div>
@@ -696,30 +691,26 @@
     <!-- brand-area,start  -->
         <section class="tp-brand-area tp-brand-spacing p-relative fix">
             <div class="tp-brand-badge p-absolute">
-                <span><img src="assets/img/brand/brand-shape-number.png" alt=""></span>
-                <div class="tp-brand-badge-shape p-absolute">
-                    <img class="circle-text" src="assets/img/brand/brand-shape-circle.png" alt="">
-                </div>
             </div>
             <div class="tp-brand-text marquee">
                 <div class="tp-brand-text-wrapper">
                     <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">WE LOVE</h3>
+                        <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
                     </div>
                     <div class="tp-brand-text-item">
-                    <h3 class="tp-brand-text-title">REAL ESTATE</h3>
+                    <h3 class="tp-brand-text-title">BOYS & GIRLS PG</h3>
                     </div>
                     <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">and  CONSTRUCTION</h3>
+                        <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
                     </div>
                     <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">WE LOVE</h3>
+                        <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
                     </div>
                     <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">REAL ESTATE</h3>
+                        <h3 class="tp-brand-text-title">BOYS & GIRLS PG</h3>
                     </div>
                     <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">and  CONSTRUCTION</h3>
+                        <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
                     </div>
                 </div>
             </div>
@@ -728,7 +719,7 @@
      
     <!-- choose-area,start  -->
     <section class="tp-choose-area default-margin tp-choose-slide-wrap-2 br-20 p-relative fix">
-        <div class="tp-choose-bg tp-bg-overlay tp-choose-spacing tp-bg tp-choose-slide-2 br-20 fix" data-background="assets/img/choose/choose-bg.jpg">
+        <div class="tp-choose-bg tp-bg-overlay tp-choose-spacing tp-bg tp-choose-slide-2 br-20 fix" data-background="assets/img/img/6.jpeg">
             <div class="container">
                 <div class="tp-choose-heading">
                     <div class="row tp-justify-center">
@@ -755,10 +746,8 @@
                                     </svg>
                                 </div>
                                 <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Client approach</a></h4>
-                                    <p class="tp-text-white">Our goal is zero incidents and
-                                    our lost time frequency rate is
-                                    industry leading.</p>
+                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Safe Accommodation</a></h4>
+                                    <p class="tp-text-white">Secure and comfortable living spaces for boys and girls with CCTV surveillance and controlled access.</p>
                                 </div>
                             </div>                            
                         </div>
@@ -770,10 +759,8 @@
                                     </svg>
                                 </div>
                                 <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Client strategy</a></h4>
-                                    <p class="tp-text-white">Our goal is zero incidents and
-                                    our lost time frequency rate is
-                                    industry leading.</p>
+                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Fully Furnished Rooms</a></h4>
+                                    <p class="tp-text-white">Well-maintained rooms equipped with beds, wardrobes, study tables, and modern amenities.</p>
                                 </div>
                             </div>
                         </div>
@@ -789,10 +776,8 @@
                                     </svg>
                                 </div>
                                 <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Professional client</a></h4>
-                                    <p>Our goal is zero incidents and
-                                    our lost time frequency rate is
-                                    industry leading.</p>
+                                    <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Healthy Meals</a></h4>
+                                    <p>Freshly prepared and hygienic breakfast, lunch, and dinner served daily for residents.</p>
                                 </div>
                             </div>
                         </div>
@@ -806,10 +791,8 @@
                             </svg>
                         </div>
                         <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Architecture design</a></h4>
-                            <p>Our goal is zero incidents and
-                            our lost time frequency rate is
-                            industry leading.</p>
+                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">High-Speed Wi-Fi</a></h4>
+                            <p>Stay connected with reliable internet access for study, work, and entertainment.</p>
                         </div>
                     </div>
                     <div class="tpchoose tp-bg-secoundery tpchoose__item-2" data-parallax-y="-1050" data-parallax-scrub="5">
@@ -819,10 +802,8 @@
                             </svg>
                         </div>
                         <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Community living</a></h4>
-                            <p>Our goal is zero incidents and
-                            our lost time frequency rate is
-                            industry leading.</p>
+                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Housekeeping Services</a></h4>
+                            <p> Regular cleaning and maintenance ensure a neat, hygienic, and pleasant living environment.</p>
                         </div>
                     </div>
                 </div>
@@ -834,10 +815,8 @@
                             </svg>
                         </div>
                         <div class="tpchoose__content">
-                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Personalized client</a></h4>
-                            <p class="tp-text-white">Our goal is zero incidents and
-                            our lost time frequency rate is
-                            industry leading.</p>
+                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">24×7 Security</a></h4>
+                            <p class="tp-text-white">Round-the-clock monitoring and security measures provide complete peace of mind.</p>
                         </div>
                     </div>
                 </div>
@@ -849,10 +828,8 @@
                             </svg>
                         </div>
                         <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Community living</a></h4>
-                            <p>Our goal is zero incidents and
-                            our lost time frequency rate is
-                            industry leading.</p>
+                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Community Living<</a></h4>
+                            <p>Enjoy a friendly atmosphere where students and professionals can connect and grow together.</p>
                         </div>
                     </div>      
                     <div class="tpchoose tpchoose__bluer-bg tpchoose__item-2 z-index-2" data-parallax-y="-360" data-parallax-scrub="5">
@@ -862,10 +839,8 @@
                             </svg>
                         </div>
                         <div class="tpchoose__content">
-                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Dedicated client</a></h4>
-                            <p class="tp-text-white">Our goal is zero incidents and
-                            our lost time frequency rate is
-                            industry leading.</p>
+                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Power Backup</a></h4>
+                            <p class="tp-text-white"> Uninterrupted electricity supply ensures comfort and convenience at all times.</p>
                         </div>
                     </div> 
                 </div>
@@ -885,8 +860,8 @@
                             <h2 class="tp-section-title margin-0 tp_fade_anim" data-duration=".9" data-delay=".2">Frequently asked<span>questions!</span></h2>
                         </div>
                         <div class="tp-faq-btn pt-45 tp_fade_anim" data-duration=".9" data-delay=".3" data-ease="bounce">
-                            <a href="faq.html" class="tp-btn">
-                            <span class="tp-btn-text">Learn More</span>
+                            <a href="contact.php" class="tp-btn">
+                            <span class="tp-btn-text">Contact Us</span>
                                 <span class="tp-btn-icon">
                                     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -902,91 +877,91 @@
                         <div class="accordion" id="accordionExample">
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        01. How do I start the process of buying a property?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+    01. Do you provide accommodation for both boys and girls?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    Yes, we provide separate and secure PG accommodation facilities for both boys and girls with all essential amenities.
+</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
-                                       02. What services does your real estate agency provide?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                    <button class="tp-faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
+    02. What facilities are included in the PG?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapse2" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    Our PG includes fully furnished rooms, Wi-Fi, housekeeping, healthy meals, laundry support, power backup, and CCTV security.
+</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
-                                       03. Do you assist with paperwork and legal procedures?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                   <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
+    03. Are meals provided to residents?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    Yes, we provide hygienic and nutritious meals daily, including breakfast, lunch, and dinner.
+</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
-                                       04. Which projects are safest for long-term growth?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
+    04. Is there 24×7 security available?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    Yes, the premises are monitored with CCTV surveillance and security measures to ensure a safe living environment.
+</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-                                        05. What legal checks should I do before buying land?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
+    05. Do you offer single and shared rooms?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    Yes, residents can choose from single, double, or shared occupancy rooms based on their preferences and availability.
+</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="tp-faq-item">
                                 <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-                                       06. Do you offer construction or architecture services?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
+                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6">
+    06. How can I book a room?
+    <span class="tp-faq-arrow"></span>
+</button>
                                 </h3>
                                 <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                                     <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
+                                        <p class="margin-0">
+    You can contact us directly by phone, WhatsApp, or through our website to check availability and complete the booking process.
+</p>
                                     </div>
                                 </div>
                             </div>
@@ -999,7 +974,7 @@
       <!-- faq-area,end  -->
 
          <!-- blog-area,start  -->
-            <section class="tp-blog-area tp-blog-spacing pt-150 pb-150 default-margin br-20 tp-bg-gray">
+            <!-- <section class="tp-blog-area tp-blog-spacing pt-150 pb-150 default-margin br-20 tp-bg-gray">
                 <div class="container">
                     <div class="tp-blog-heading mb-70">
                         <div class="tp-section-title-wrap tp-text-center">
@@ -1140,7 +1115,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         <!-- blog-area,end  -->
 
      </main>

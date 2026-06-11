@@ -612,7 +612,6 @@ img {
 .tp-linear-bg-4::after, .tp-linear-bg-6::after, .tp-linear-bg-7::after {
   position: absolute;
   content: "";
-  background: linear-gradient(360deg, #D9D813 0%, rgba(0, 0, 0, 0) 64.42%);
   border-radius: 20px 20px 0px 0px;
   height: 100%;
   width: 100%;
@@ -3526,7 +3525,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .tp-footer-spacing {
   padding-top: 115px;
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 }
 @media (max-width: 574.98px) {
   .tp-footer-spacing {
@@ -4474,7 +4473,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-hero-spacing-3 {
-  min-height: 930px;
+  min-height: 800px;
   padding-top: 110px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199.98px) {
@@ -10485,8 +10484,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-brand-badge {
-  background: #FFFFFF;
-  box-shadow: 0px 20px 40px rgba(25, 25, 25, 0.1);
+  background: #fffcfc00;
   border-radius: 100px;
   width: 180px;
   height: 180px;
