@@ -1,367 +1,700 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+  <!-- Mirrored from html.aqlova.com/landor-prev/landor/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jun 2026 07:20:14 GMT -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<!-- Mirrored from html.aqlova.com/landor-prev/landor/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jun 2026 07:20:14 GMT -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landor – Modern Real Estate & Property Listing HTML Template</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
-    <link rel="stylesheet" href="assets/css/spacing.css">
-    <link rel="stylesheet" href="assets/css/odometer-min.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <!-- Primary SEO -->
+    <title>Vedant Living | Premium PG for Girls in Delhi | Safe & Comfortable Accommodation</title>
+
+    <meta name="description" content="Vedant Living offers safe, secure and comfortable PG accommodation for girls in Delhi. Fully furnished rooms, WiFi, healthy meals, housekeeping, laundry services and 24/7 security." />
+
+    <meta name="keywords" content="PG for Girls, Girls PG Delhi, Girls Hostel Delhi, Student Accommodation Delhi, Working Women PG, Ladies PG Near Me, Safe PG for Girls, Furnished PG Delhi, Vedant Living" />
+
+    <meta name="author" content="Vedant Living" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+    <meta name="revisit-after" content="7 days" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://www.vedantliving.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Vedant Living | Premium PG for Girls" />
+    <meta property="og:description" content="Safe, secure and comfortable PG accommodation for girls with modern amenities and a homely environment." />
+    <meta property="og:image" content="assets/img/logo/android-chrome-512x512.png" />
+    <meta property="og:url" content="https://www.vedantliving.com/" />
+    <meta property="og:site_name" content="Vedant Living" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Vedant Living | Premium PG for Girls" />
+    <meta name="twitter:description" content="Comfortable and secure PG accommodation for girls with modern amenities." />
+    <meta name="twitter:image" content="assets/img/logo/android-chrome-512x512.png" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon_io/favicon-16x16.png">
+    <link rel="shortcut icon" href="assets/img/logo/favicon_io/favicon.ico">
+    <link rel="manifest" href="assets/img/logo/favicon_io/site.webmanifest">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0D2A3D">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/magnific-popup.css" />
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome-pro.css" />
+    <link rel="stylesheet" href="assets/css/spacing.css" />
+    <link rel="stylesheet" href="assets/css/odometer-min.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <!-- Local Business Schema -->
+    <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"LodgingBusiness",
+      "name":"Vedant Living",
+      "description":"Premium PG accommodation for girls with modern amenities and security.",
+      "telephone":"+91-9217664414",
+      "image":"assets/img/logo/android-chrome-512x512.png",
+      "address":{
+        "@type":"PostalAddress",
+        "addressCountry":"IN"
+      }
+    }
+    </script>
 </head>
-<body class="tp-magic-cursor">
-    
+  <body class="tp-magic-cursor">
     <!-- header,start  -->
-         <?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
 
     <!-- header,end  -->
 
-     <!-- preloader,start  -->
-        <div id="loading">
-            <div id="loading-center">
-                <div id="loading-center-absolute">
-                    <div class="object" id="object_four"></div>
-                    <div class="object" id="object_three"></div>
-                    <div class="object" id="object_two"></div>
-                    <div class="object" id="object_one"></div>
-                </div>
-            </div>
-        
+    <!-- preloader,start  -->
+    <div id="loading">
+      <div id="loading-center">
+        <div id="loading-center-absolute">
+          <div class="object" id="object_four"></div>
+          <div class="object" id="object_three"></div>
+          <div class="object" id="object_two"></div>
+          <div class="object" id="object_one"></div>
         </div>
-     <!-- preloader,end  -->
+      </div>
+    </div>
+    <!-- preloader,end  -->
 
     <!-- Begin magic cursor -->
-   <div id="magic-cursor" class="cursor-black-bg">
+    <div id="magic-cursor" class="cursor-black-bg">
       <div id="ball"></div>
-   </div>
-   <!-- End magic cursor -->
-     
+    </div>
+    <!-- End magic cursor -->
+
     <!-- back to top start -->
     <div class="back-to-top-wrapper">
-        <button id="back_to_top" type="button" class="back-to-top-btn">
-            <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M11 6L6 1L1 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-            </svg>
-        </button>
+      <button id="back_to_top" type="button" class="back-to-top-btn">
+        <svg
+          width="12"
+          height="7"
+          viewBox="0 0 12 7"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M11 6L6 1L1 6"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </button>
     </div>
     <!-- back to top end -->
 
     <!-- offcanvas-start -->
     <section class="tp-offcanvas">
-        <div class="tp-offcanvas-wrapper">
-            <div class="tp-offcanvas-header d-flex align-items-center justify-content-between mb-40">
-                <div class="tp-offcanvas-logo">
-                    <a href="index.html"><img data-width="163" src="assets/img/logo/logo-black.png" alt="logo-ing"></a>
-                </div>
-                <div class="tp-offcanvas-button">
-                    <button class="tp-offcanvas-button-close tp-offcanvas-close-toggle"><i class="fas fa-times"></i>
-                    </button>
-                </div>
-            </div>
-            <div class="tp-offcanvas-menu mb-30">
-                <nav></nav>
-            </div>
-            <div class="tp-offcanvas-content mb-30">
-                <h3 class="tp-offcanvas-title mb-7">Let’s make Real</h3>
-                <p class="m-0">We are a privately owned real estate company dedicated to delivering innovative property solutions across the globe.</p>
-            </div>
-            <div class="tp-offcanvas-gallery mb-30">
-                <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"><img src="assets/img/project/project-gullary-1.jpg" alt=""></a>
-                <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"><img src="assets/img/project/project-gullary-2.jpg" alt=""></a>
-                <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"><img src="assets/img/project/project-gullary-3.jpg" alt=""></a>
-                <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"><img src="assets/img/project/project-gullary-1.jpg" alt=""></a>
-            </div>
-            <div class="tp-offcanvas-cta mb-30">
-               <h3 class="tp-offcanvas-title mb-7">Information</h3>
-                <ul>
-                    <li><a href="tel:+99926542563">+999 2654 2563</a></li>
-                    <li><a href="mailto:landor@info@.com">landor@info@.com</a></li>
-                </ul>
-            </div>
-            <div class="tp-offcanvas-contect-social">
-                <ul>
-                    <li><a href="#">
-                        <svg width="8" height="15" viewBox="0 0 8 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M8 0H5.81818C4.85376 0 3.92883 0.383116 3.24688 1.06507C2.56493 1.74702 2.18182 2.67194 2.18182 3.63636V5.81818H0V8.72727H2.18182V14.5455H5.09091V8.72727H7.27273L8 5.81818H5.09091V3.63636C5.09091 3.44348 5.16753 3.25849 5.30392 3.1221C5.44031 2.98571 5.6253 2.90909 5.81818 2.90909H8V0Z" fill="currentcolor"></path>
-                        </svg>
-                    </a></li>
-                    <li><a href="#">
-                        <svg width="15" height="12" viewBox="0 0 15 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M14.7127 0.00672484C14.0723 0.458456 13.3632 0.803959 12.6128 1.02993C12.21 0.566818 11.6748 0.238578 11.0794 0.0896016C10.484 -0.0593751 9.85717 -0.021901 9.28377 0.196956C8.71036 0.415812 8.21801 0.805492 7.87329 1.31329C7.52857 1.82109 7.34812 2.42251 7.35635 3.0362V3.70496C6.18109 3.73544 5.01654 3.47478 3.96642 2.94622C2.91629 2.41765 2.01318 1.63758 1.33752 0.675484C1.33752 0.675484 -1.33752 6.69432 4.68131 9.36935C3.30402 10.3043 1.66331 10.773 0 10.7069C6.01883 14.0507 13.3752 10.7069 13.3752 3.01614C13.3746 2.82986 13.3567 2.64404 13.3217 2.46107C14.0042 1.78796 14.4859 0.938114 14.7127 0.00672484Z" fill="currentcolor"></path>
-                        </svg>
-                    </a></li>
-                    <li><a href="#">
-                        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M9.79961 4.2002C10.9135 4.2002 11.9818 4.64269 12.7695 5.43035C13.5571 6.218 13.9996 7.28629 13.9996 8.4002V13.3002H11.1996V8.4002C11.1996 8.02889 11.0521 7.6728 10.7896 7.41025C10.527 7.1477 10.1709 7.0002 9.79961 7.0002C9.42831 7.0002 9.07221 7.1477 8.80966 7.41025C8.54711 7.6728 8.39961 8.02889 8.39961 8.4002V13.3002H5.59961V8.4002C5.59961 7.28629 6.04211 6.218 6.82976 5.43035C7.61741 4.64269 8.6857 4.2002 9.79961 4.2002Z" fill="currentcolor"></path>
-                        <path d="M2.8 4.90039H0V13.3004H2.8V4.90039Z" fill="currentcolor"></path>
-                        <path d="M1.4 2.8C2.1732 2.8 2.8 2.1732 2.8 1.4C2.8 0.626801 2.1732 0 1.4 0C0.626801 0 0 0.626801 0 1.4C0 2.1732 0.626801 2.8 1.4 2.8Z" fill="currentcolor"></path>
-                        </svg>
-                    </a></li>
-                    <li><a href="#">
-                        <svg width="15" height="10" viewBox="0 0 15 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M13.9331 1.56533C13.8563 1.25835 13.6998 0.977084 13.4794 0.749939C13.2591 0.522795 12.9827 0.357817 12.6782 0.271669C11.5657 5.78312e-08 7.11551 0 7.11551 0C7.11551 0 2.66531 1.92771e-08 1.55276 0.297542C1.24827 0.38369 0.971895 0.548668 0.751564 0.775813C0.531234 1.00296 0.374748 1.28422 0.297912 1.5912C0.094299 2.72028 -0.00529911 3.86566 0.000369757 5.01294C-0.00688814 6.16885 0.0927163 7.32296 0.297912 8.46054C0.38262 8.75799 0.542612 9.02855 0.762429 9.24611C0.982246 9.46366 1.25446 9.62084 1.55276 9.70246C2.66531 10 7.11551 10 7.11551 10C7.11551 10 11.5657 10 12.6782 9.70246C12.9827 9.61631 13.2591 9.45133 13.4794 9.22419C13.6998 8.99704 13.8563 8.71578 13.9331 8.4088C14.1351 7.28822 14.2347 6.15157 14.2306 5.01294C14.2379 3.85702 14.1383 2.70291 13.9331 1.56533Z" fill="currentcolor"></path>
-                        <path d="M5.66016 7.12773L9.37943 5.0126L5.66016 2.89746V7.12773Z" fill="white"></path>
-                        </svg>
-                    </a></li>
-                </ul>
-            </div>
+      <div class="tp-offcanvas-wrapper">
+        <div
+          class="tp-offcanvas-header d-flex align-items-center justify-content-between mb-40"
+        >
+          <div class="tp-offcanvas-logo">
+            <a href="/"
+              ><img
+                data-width="163"
+                src="assets/img/logo/logo-black.png"
+                alt="logo-ing"
+            /></a>
+          </div>
+          <div class="tp-offcanvas-button">
+            <button class="tp-offcanvas-button-close tp-offcanvas-close-toggle">
+              <i class="fas fa-times"></i>
+            </button>
+          </div>
         </div>
+        <div class="tp-offcanvas-menu mb-30">
+          <nav></nav>
+        </div>
+        <div class="tp-offcanvas-content mb-30">
+          <h3 class="tp-offcanvas-title mb-7">Let’s make Real</h3>
+          <p class="m-0">
+            We are a privately owned real estate company dedicated to delivering
+            innovative property solutions across the globe.
+          </p>
+        </div>
+        <div class="tp-offcanvas-gallery mb-30">
+          <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
+            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+          /></a>
+          <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
+            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+          /></a>
+          <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
+            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+          /></a>
+          <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
+            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+          /></a>
+        </div>
+        <div class="tp-offcanvas-cta mb-30">
+          <h3 class="tp-offcanvas-title mb-7">Information</h3>
+          <ul>
+            <li><a href="tel:+99926542563">+999 2654 2563</a></li>
+            <li><a href="mailto:landor@info@.com">landor@info@.com</a></li>
+          </ul>
+        </div>
+        <div class="tp-offcanvas-contect-social">
+          <ul>
+            <li>
+              <a href="#">
+                <svg
+                  width="8"
+                  height="15"
+                  viewBox="0 0 8 15"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 0H5.81818C4.85376 0 3.92883 0.383116 3.24688 1.06507C2.56493 1.74702 2.18182 2.67194 2.18182 3.63636V5.81818H0V8.72727H2.18182V14.5455H5.09091V8.72727H7.27273L8 5.81818H5.09091V3.63636C5.09091 3.44348 5.16753 3.25849 5.30392 3.1221C5.44031 2.98571 5.6253 2.90909 5.81818 2.90909H8V0Z"
+                    fill="currentcolor"
+                  ></path>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <svg
+                  width="15"
+                  height="12"
+                  viewBox="0 0 15 12"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M14.7127 0.00672484C14.0723 0.458456 13.3632 0.803959 12.6128 1.02993C12.21 0.566818 11.6748 0.238578 11.0794 0.0896016C10.484 -0.0593751 9.85717 -0.021901 9.28377 0.196956C8.71036 0.415812 8.21801 0.805492 7.87329 1.31329C7.52857 1.82109 7.34812 2.42251 7.35635 3.0362V3.70496C6.18109 3.73544 5.01654 3.47478 3.96642 2.94622C2.91629 2.41765 2.01318 1.63758 1.33752 0.675484C1.33752 0.675484 -1.33752 6.69432 4.68131 9.36935C3.30402 10.3043 1.66331 10.773 0 10.7069C6.01883 14.0507 13.3752 10.7069 13.3752 3.01614C13.3746 2.82986 13.3567 2.64404 13.3217 2.46107C14.0042 1.78796 14.4859 0.938114 14.7127 0.00672484Z"
+                    fill="currentcolor"
+                  ></path>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M9.79961 4.2002C10.9135 4.2002 11.9818 4.64269 12.7695 5.43035C13.5571 6.218 13.9996 7.28629 13.9996 8.4002V13.3002H11.1996V8.4002C11.1996 8.02889 11.0521 7.6728 10.7896 7.41025C10.527 7.1477 10.1709 7.0002 9.79961 7.0002C9.42831 7.0002 9.07221 7.1477 8.80966 7.41025C8.54711 7.6728 8.39961 8.02889 8.39961 8.4002V13.3002H5.59961V8.4002C5.59961 7.28629 6.04211 6.218 6.82976 5.43035C7.61741 4.64269 8.6857 4.2002 9.79961 4.2002Z"
+                    fill="currentcolor"
+                  ></path>
+                  <path
+                    d="M2.8 4.90039H0V13.3004H2.8V4.90039Z"
+                    fill="currentcolor"
+                  ></path>
+                  <path
+                    d="M1.4 2.8C2.1732 2.8 2.8 2.1732 2.8 1.4C2.8 0.626801 2.1732 0 1.4 0C0.626801 0 0 0.626801 0 1.4C0 2.1732 0.626801 2.8 1.4 2.8Z"
+                    fill="currentcolor"
+                  ></path>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <svg
+                  width="15"
+                  height="10"
+                  viewBox="0 0 15 10"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M13.9331 1.56533C13.8563 1.25835 13.6998 0.977084 13.4794 0.749939C13.2591 0.522795 12.9827 0.357817 12.6782 0.271669C11.5657 5.78312e-08 7.11551 0 7.11551 0C7.11551 0 2.66531 1.92771e-08 1.55276 0.297542C1.24827 0.38369 0.971895 0.548668 0.751564 0.775813C0.531234 1.00296 0.374748 1.28422 0.297912 1.5912C0.094299 2.72028 -0.00529911 3.86566 0.000369757 5.01294C-0.00688814 6.16885 0.0927163 7.32296 0.297912 8.46054C0.38262 8.75799 0.542612 9.02855 0.762429 9.24611C0.982246 9.46366 1.25446 9.62084 1.55276 9.70246C2.66531 10 7.11551 10 7.11551 10C7.11551 10 11.5657 10 12.6782 9.70246C12.9827 9.61631 13.2591 9.45133 13.4794 9.22419C13.6998 8.99704 13.8563 8.71578 13.9331 8.4088C14.1351 7.28822 14.2347 6.15157 14.2306 5.01294C14.2379 3.85702 14.1383 2.70291 13.9331 1.56533Z"
+                    fill="currentcolor"
+                  ></path>
+                  <path
+                    d="M5.66016 7.12773L9.37943 5.0126L5.66016 2.89746V7.12773Z"
+                    fill="white"
+                  ></path>
+                </svg>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </section>
     <div class="tp-offcanvas-overlay"></div>
     <!-- offcanvas-start -->
 
     <div id="smooth-wrapper">
-        <div id="smooth-content">
-    <!-- main,start  -->
-     <main>
-
-    <!-- hero-area,start  -->
-     <section class="tp-hero-area tp-hero-solid-2">
-        <div class="container-wide">
-<div class="tp-hero-spacing-3 tp-hero-bg p-relative br-20 fix"
-     style="background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/img/img/1.jpeg'); background-size: cover; background-position: center;">                <div class="container">
-    <div class="row">
-        <div class="col-xl-5 col-lg-8 col-md-10">
-            <div class="tp-hero-heading">
-                <h1 class="tp-section-title-larg tp-hero-title-mid tp-text-white mb-30 tp_fade_anim" data-delay=".1" data-duration=".9">
-                    Comfortable<br>
-                    Secure<br>
-                    Living.
-                </h1>
-                <div class="tp_fade_anim" data-delay=".3" data-duration=".9">
-                    <p class="tp-hero-deg fw-500 tp-text-white">
-                        Welcome to Goddess Accommodation, offering premium PG facilities for boys and girls with fully furnished rooms, nutritious meals, high-speed Wi-Fi, housekeeping, and 24×7 security.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-            </div>
-        </div>
-     </section>
-    <!-- hero-area,end  -->
-
-    <!-- services-area,start  -->
-     <section class="tp-services-area tp-services-spacing fix">
-        <div class="container">
-            <div class="row tpservices__main">
-                <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".2" data-duration=".9">
-                    <div class="tpservices br-20 tp-bg-orange p-relative fix ">
-                        <div class="tpservices__content z-index-1">
-                            <h2 class="tpservices__title mb-10 tp-text-white">Comfortable Accommodation</h2>
-                            <p class="mb-20 tp-text-white">Fully furnished rooms for boys and girls with modern amenities, comfortable beds, wardrobes, and a homely environment.</p>
-                            <a class="tpservices__btn" href="services-details.html">
-                                <span class="mr-5">View Rooms</span>
-                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                            </a>
-                        </div>
-                        <div class="tpservices__back-text">GOODESS</div>
-                        <div class="tpservices__img p-absolute">
-                            <img src="assets/img/services/services-img-5.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".3" data-duration=".9">
-                    <div class="tpservices br-20 tp-bg-secoundery p-relative fix ">
-                        <div class="tpservices__content z-index-1">
-                            <h3 class="tpservices__title mb-10">Modern Facilities</h3>
-                            <p class="mb-20"> Enjoy high-speed Wi-Fi, nutritious meals, housekeeping, laundry support, RO water, and uninterrupted power backup.</p>
-                            <a class="tpservices__btn" href="services-details.html">
-                                <span class="mr-5">Explore Facilities</span>
-                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                            </a>
-                        </div>
-                        <div class="tpservices__back-text">GOODESS</div>
-                        <div class="tpservices__img p-absolute">
-                            <img src="assets/img/services/services-img-6.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 tp_fade_anim" data-delay=".4" data-duration=".9">
-                    <div class="tpservices br-20 tp-bg-gray p-relative fix ">
-                        <div class="tpservices__content z-index-1">
-                            <h3 class="tpservices__title mb-10">Safety & Security</h3>
-                            <p class="mb-20">Your safety comes first with CCTV surveillance, secure entry systems, and a peaceful living environment.</p>
-                            <a class="tpservices__btn" href="contact.php">
-                                <span class="mr-5">Contact Us</span>
-                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                </svg>
-                            </a>
-                        </div>
-                        <div class="tpservices__back-text">GOODESS</div>
-                        <div class="tpservices__img p-absolute">
-                            <img src="assets/img/services/services-img-7.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-     </section>
-    <!-- services-area,end  -->
-
-    <!-- fact-area,start  -->
-     <section class="tp-fact-area">
-        <div class="container-wide">
-            <div class="tp-fact-spacing br-20 tp-overlay tp-bg fix jarallax" data-background="assets/img/img/2.jpeg">
+      <div id="smooth-content">
+        <!-- main,start  -->
+        <main>
+          <!-- hero-area,start  -->
+          <section class="tp-hero-area tp-hero-solid-2">
+            <div class="container-wide">
+              <div
+                class="tp-hero-spacing-3 tp-hero-bg p-relative br-20 fix"
+                style="
+                  background-image:
+                    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                    url(&quot;assets/img/img/1.jpeg&quot;);
+                  background-size: cover;
+                  background-position: center;
+                "
+              >
                 <div class="container">
-                    <div class="tp-fact-wrap tp-flex-center tp-justify-center">
-                        <div class="tpfact">
-                            <div class="tpfact__content">
-                                <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="500"></span>
-                                    <span class="tpfact__title-div">+</span>
-                                </h3>
-                                <p class="margin-0">Happy Residents</p>
-                            </div>
+                  <div class="row">
+                    <div class="col-xl-5 col-lg-8 col-md-10">
+                      <div class="tp-hero-heading">
+                        <h1
+                          class="tp-section-title-larg tp-hero-title-mid tp-text-white mb-30 tp_fade_anim"
+                          data-delay=".1"
+                          data-duration=".9"
+                        >
+                          Comfortable<br />
+                          Secure<br />
+                          Living.
+                        </h1>
+                        <div
+                          class="tp_fade_anim"
+                          data-delay=".3"
+                          data-duration=".9"
+                        >
+                          <p class="tp-hero-deg fw-500 tp-text-white">
+                            Welcome to Vedant Living, offering premium PG
+                            facilities for girls with fully furnished rooms,
+                            nutritious meals, high-speed Wi-Fi, housekeeping,
+                            and 24×7 security.
+                          </p>
                         </div>
-                        <div class="tpfact">
-                            <div class="tpfact__content">
-                                <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="50"></span>
-                                    <span class="tpfact__title-div">24/7</span>
-                                </h3>
-                                <p class="margin-0">Security & CCTV Monitoring</p>
-                            </div>
-                        </div>
-                        <div class="tpfact">
-                            <div class="tpfact__content">
-                                <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="24"></span>
-                                    <span class="tpfact__title-div">+</span>
-                                </h3>
-                                <p class="margin-0">Years of Trusted Service</p>
-                            </div>
-                        </div>
-                        <div class="tpfact">
-                            <div class="tpfact__content">
-                                <h3 class="tpfact__title">
-                                    <span class="odometer" data-count="10"></span>
-                                    <span class="tpfact__title-div">+</span>
-                                </h3>
-                                <p class="margin-0">Square feet of property</p>
-                            </div>
-                        </div>
+                      </div>
                     </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </div>
-     </section>
-    <!-- fact-area,end  -->
+          </section>
+          <!-- hero-area,end  -->
 
-    <!-- about-area,start  -->
-     <section class="tp-about-area tp-about-spacing fix">
-        <div class="container">
-            <div class="tp-about-heading pb-65">
+          <!-- services-area,start  -->
+          <section class="tp-services-area tp-services-spacing fix">
+            <div class="container">
+              <div class="row tpservices__main">
+                <div
+                  class="col-lg-4 col-md-6 tp_fade_anim"
+                  data-delay=".2"
+                  data-duration=".9"
+                >
+                  <div class="tpservices br-20 tp-bg-orange p-relative fix">
+                    <div class="tpservices__content z-index-1">
+                      <h2 class="tpservices__title mb-10 tp-text-white">
+                        Comfortable Accommodation
+                      </h2>
+                      <p class="mb-20 tp-text-white">
+                        Fully furnished rooms for girls with modern amenities,
+                        comfortable beds, wardrobes, and a homely environment.
+                      </p>
+                      <a class="tpservices__btn" href="services-details.html">
+                        <span class="mr-5">View Rooms</span>
+                        <svg
+                          width="14"
+                          height="14"
+                          viewBox="0 0 14 14"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M0.75 6.75H12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                          <path
+                            d="M6.75 0.75L12.75 6.75L6.75 12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                    <div class="tpservices__back-text">GOODESS</div>
+                    <div class="tpservices__img p-absolute">
+                      <img
+                        src="assets/img/services/services-img-5.png"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="col-lg-4 col-md-6 tp_fade_anim"
+                  data-delay=".3"
+                  data-duration=".9"
+                >
+                  <div class="tpservices br-20 tp-bg-secoundery p-relative fix">
+                    <div class="tpservices__content z-index-1">
+                      <h3 class="tpservices__title mb-10">Modern Facilities</h3>
+                      <p class="mb-20">
+                        Enjoy high-speed Wi-Fi, nutritious meals, housekeeping,
+                        laundry support, RO water, and uninterrupted power
+                        backup.
+                      </p>
+                      <a class="tpservices__btn" href="services-details.html">
+                        <span class="mr-5">Explore Facilities</span>
+                        <svg
+                          width="14"
+                          height="14"
+                          viewBox="0 0 14 14"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M0.75 6.75H12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                          <path
+                            d="M6.75 0.75L12.75 6.75L6.75 12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                    <div class="tpservices__back-text">GOODESS</div>
+                    <div class="tpservices__img p-absolute">
+                      <img
+                        src="assets/img/services/services-img-6.png"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="col-lg-4 col-md-6 tp_fade_anim"
+                  data-delay=".4"
+                  data-duration=".9"
+                >
+                  <div class="tpservices br-20 tp-bg-gray p-relative fix">
+                    <div class="tpservices__content z-index-1">
+                      <h3 class="tpservices__title mb-10">Safety & Security</h3>
+                      <p class="mb-20">
+                        Your safety comes first with CCTV surveillance, secure
+                        entry systems, and a peaceful living environment.
+                      </p>
+                      <a class="tpservices__btn" href="contact">
+                        <span class="mr-5">Contact Us</span>
+                        <svg
+                          width="14"
+                          height="14"
+                          viewBox="0 0 14 14"
+                          fill="none"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M0.75 6.75H12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                          <path
+                            d="M6.75 0.75L12.75 6.75L6.75 12.75"
+                            stroke="currentcolor"
+                            stroke-width="1.5"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                          />
+                        </svg>
+                      </a>
+                    </div>
+                    <div class="tpservices__back-text">GOODESS</div>
+                    <div class="tpservices__img p-absolute">
+                      <img
+                        src="assets/img/services/services-img-7.png"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- services-area,end  -->
+
+          <!-- fact-area,start  -->
+          <section class="tp-fact-area">
+            <div class="container-wide">
+              <div
+                class="tp-fact-spacing br-20 tp-overlay tp-bg fix jarallax"
+                data-background="assets/img/img/2.jpeg"
+              >
+                <div class="container">
+                  <div class="tp-fact-wrap tp-flex-center tp-justify-center">
+                    <div class="tpfact">
+                      <div class="tpfact__content">
+                        <h3 class="tpfact__title">
+                          <span class="odometer" data-count="500"></span>
+                          <span class="tpfact__title-div">+</span>
+                        </h3>
+                        <p class="margin-0">Happy Residents</p>
+                      </div>
+                    </div>
+                    <div class="tpfact">
+                      <div class="tpfact__content">
+                        <h3 class="tpfact__title">
+                          <span class="odometer" data-count="50"></span>
+                          <span class="tpfact__title-div">24/7</span>
+                        </h3>
+                        <p class="margin-0">Security & CCTV Monitoring</p>
+                      </div>
+                    </div>
+                    <div class="tpfact">
+                      <div class="tpfact__content">
+                        <h3 class="tpfact__title">
+                          <span class="odometer" data-count="24"></span>
+                          <span class="tpfact__title-div">+</span>
+                        </h3>
+                        <p class="margin-0">Years of Trusted Service</p>
+                      </div>
+                    </div>
+                    <div class="tpfact">
+                      <div class="tpfact__content">
+                        <h3 class="tpfact__title">
+                          <span class="odometer" data-count="10"></span>
+                          <span class="tpfact__title-div">+</span>
+                        </h3>
+                        <p class="margin-0">Square feet of property</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- fact-area,end  -->
+
+          <!-- about-area,start  -->
+          <section class="tp-about-area tp-about-spacing fix">
+            <div class="container">
+              <div class="tp-about-heading pb-65">
                 <div class="row">
-                    <div class="col-xl-8 col-md-7">
-                        <div class="tp-section-title-wrap">
-                            <span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">
-    About Us
-</span>
+                  <div class="col-xl-8 col-md-7">
+                    <div class="tp-section-title-wrap">
+                      <span
+                        class="tp-section-sub-title mb-12 tp_fade_anim"
+                        data-delay=".1"
+                        data-duration=".9"
+                      >
+                        About Us
+                      </span>
 
-<h2 class="tp-section-title tp_fade_anim" data-duration=".9" data-delay=".3">
-    Providing Safe & Comfortable <br>
-    Accommodation For Students <br>
-    And Working Professionals.
-</h2><span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">About us</span>
-                            <h2 class="tp-section-title tp_fade_anim" data-duration=".9" data-delay=".3">Delivering remarkable quality <br>
-                                in every inspiring space
-                                we<span>have build.</span></h2>
-                        </div>
+                      <h2
+                        class="tp-section-title tp_fade_anim"
+                        data-duration=".9"
+                        data-delay=".3"
+                      >
+                        Providing Safe & Comfortable <br />
+                        Accommodation For Students <br />
+                        And Working Professionals.
+                      </h2>
+                      <span
+                        class="tp-section-sub-title mb-12 tp_fade_anim"
+                        data-delay=".1"
+                        data-duration=".9"
+                        >About us</span
+                      >
+                      <h2
+                        class="tp-section-title tp_fade_anim"
+                        data-duration=".9"
+                        data-delay=".3"
+                      >
+                        Delivering remarkable quality <br />
+                        in every inspiring space we<span>have build.</span>
+                      </h2>
                     </div>
-                    <div class="col-xl-4 col-md-5">
-                        <div class="tp-about-exprience-wrap tp-flex tp-justify-end mr-85 tp_fade_anim" data-duration=".9" data-delay=".6" data-fade-from="right">
-                            <div class="tp-about-exprience p-relative">
-                                <div class="tp-about-exprience-content z-index-1">
-                                    <span>Years of <br>
-Experience</span>
-<h3 class="tp-about-exprience-num">10</h3>
-                                </div>
-                                <div class="tp-about-exprience-shape p-absolute">
-                                    <img src="assets/img/about/about-shape-2.png" alt="">
-                                </div>
-                            </div>
+                  </div>
+                  <div class="col-xl-4 col-md-5">
+                    <div
+                      class="tp-about-exprience-wrap tp-flex tp-justify-end mr-85 tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".6"
+                      data-fade-from="right"
+                    >
+                      <div class="tp-about-exprience p-relative">
+                        <div class="tp-about-exprience-content z-index-1">
+                          <span
+                            >Years of <br />
+                            Experience</span
+                          >
+                          <h3 class="tp-about-exprience-num">10</h3>
                         </div>
+                        <div class="tp-about-exprience-shape p-absolute">
+                          <img
+                            src="assets/img/about/about-shape-2.png"
+                            alt=""
+                          />
+                        </div>
+                      </div>
                     </div>
+                  </div>
                 </div>
-            </div>
-            <div class="row">
+              </div>
+              <div class="row">
                 <div class="col-lg-6">
-                    <div class="tp-about-image br-20 p-relative">
-                        <div class="anim-zoomin-wrap br-20">
-                           <img class="anim-zoomin" src="assets/img/img/Home_img.jpeg" alt="">
-                        </div>
+                  <div class="tp-about-image br-20 p-relative">
+                    <div class="anim-zoomin-wrap br-20">
+                      <img
+                        class="anim-zoomin"
+                        src="assets/img/img/Home_img.jpeg"
+                        alt=""
+                      />
                     </div>
+                  </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
-                       <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border pb-65 mb-35 tp_fade_anim" data-duration=".9" data-delay=".3">
-                          <p class="mb-30">
-    Goddess Accommodation provides premium PG accommodation for boys and girls with a focus on comfort, safety, and convenience. Our fully furnished rooms and modern amenities create a welcoming environment for students and working professionals.
-</p>
+                  <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
+                    <div
+                      class="tp-about-deg tp-about-deg-2 tp-about-deg-border pb-65 mb-35 tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".3"
+                    >
+                      <p class="mb-30">
+                        Vedant Living provides premium PG accommodation for
+                        girls with a focus on comfort, safety, and convenience.
+                        Our fully furnished rooms and modern amenities create a
+                        welcoming environment for students and working
+                        professionals.
+                      </p>
 
-<h3 class="tp-about-border-text p-relative">
-    Your Home Away From Home!
-</h3>
-                       </div>
-                       <div class="row tp-align-center tp_fade_anim" data-duration=".9" data-delay=".4">
-                            <div class="col-md-6">
-                                <p class="tp-about-cta-deg">
-    Looking for a safe and affordable PG? Contact our team today.
-</p>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="tp-cta-phone tp-cta-phone-mid">
-                                    <a class="tp-flex-center" href="tel:+919540936464">
-                                        <span class="tp-cta-phone-icon tp-cta-phone-icon-mid mr-10">
-                                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M12.496 7.00013C12.152 7.00013 11.88 6.72013 11.88 6.38414C11.88 6.08814 11.584 5.47214 11.088 4.93614C10.6 4.41615 10.064 4.11215 9.616 4.11215C9.272 4.11215 9 3.83215 9 3.49615C9 3.16016 9.28 2.88016 9.616 2.88016C10.416 2.88016 11.256 3.31215 11.992 4.08815C12.68 4.81615 13.12 5.72014 13.12 6.37614C13.12 6.72013 12.84 7.00013 12.496 7.00013Z" fill="currentcolor"/>
-                                            <path d="M15.3823 6.99996C15.0383 6.99996 14.7663 6.71996 14.7663 6.38396C14.7663 3.54398 12.4543 1.23999 9.62234 1.23999C9.27835 1.23999 9.00635 0.959994 9.00635 0.623996C9.00635 0.287998 9.27835 0 9.61434 0C13.1343 0 15.9983 2.86398 15.9983 6.38396C15.9983 6.71996 15.7183 6.99996 15.3823 6.99996Z" fill="currentcolor"/>
-                                            <path d="M7.83195 9.76794L5.21597 12.3839C4.92797 12.1279 4.64797 11.8639 4.37597 11.5919C3.55198 10.7599 2.80798 9.88794 2.14399 8.97594C1.48799 8.06395 0.959994 7.15196 0.575996 6.24796C0.191999 5.33597 0 4.46397 0 3.63198C0 3.08798 0.0959993 2.56798 0.287998 2.08799C0.479997 1.59999 0.783995 1.15199 1.20799 0.751995C1.71999 0.247999 2.27999 0 2.87198 0C3.09598 0 3.31998 0.0479998 3.51998 0.143999C3.72798 0.239999 3.91198 0.383998 4.05597 0.591996L5.91196 3.20798C6.05596 3.40798 6.15996 3.59198 6.23196 3.76798C6.30396 3.93598 6.34396 4.10397 6.34396 4.25597C6.34396 4.44797 6.28796 4.63997 6.17596 4.82397C6.07196 5.00797 5.91996 5.19997 5.72796 5.39197L5.11997 6.02396C5.03197 6.11196 4.99197 6.21596 4.99197 6.34396C4.99197 6.40796 4.99997 6.46396 5.01597 6.52796C5.03997 6.59196 5.06397 6.63996 5.07997 6.68796C5.22397 6.95196 5.47197 7.29596 5.82396 7.71195C6.18396 8.12795 6.56796 8.55195 6.98396 8.97594C7.27195 9.25594 7.55195 9.52794 7.83195 9.76794Z" fill="currentcolor"/>
-                                            <path d="M15.977 13.064C15.977 13.288 15.937 13.52 15.857 13.744C15.833 13.808 15.809 13.872 15.777 13.936C15.641 14.224 15.465 14.496 15.233 14.752C14.841 15.184 14.409 15.496 13.921 15.696C13.913 15.696 13.905 15.704 13.897 15.704C13.425 15.8959 12.913 15.9999 12.361 15.9999C11.545 15.9999 10.673 15.808 9.75303 15.416C8.83304 15.024 7.91304 14.496 7.00105 13.832C6.68905 13.6 6.37705 13.368 6.08105 13.12L8.69704 10.504C8.92104 10.672 9.12103 10.8 9.28903 10.888C9.32903 10.904 9.37703 10.928 9.43303 10.952C9.49703 10.976 9.56103 10.984 9.63303 10.984C9.76903 10.984 9.87303 10.936 9.96103 10.848L10.569 10.248C10.769 10.048 10.961 9.89599 11.145 9.79999C11.329 9.68799 11.513 9.63199 11.713 9.63199C11.865 9.63199 12.025 9.66399 12.201 9.73599C12.377 9.80799 12.561 9.91199 12.761 10.048L15.409 11.928C15.617 12.072 15.761 12.24 15.849 12.44C15.929 12.64 15.977 12.84 15.977 13.064Z" fill="currentcolor"/>
-                                            </svg>
-                                        </span>
-                                        +91 95409 36464
-                                    </a>
-                                </div>
-                            </div>
-                       </div>
-                        <div class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim" data-duration=".9" data-delay=".4" data-ease="bounce">
-                            <a href="about.html" class="tp-btn">
-                                <span class="tp-btn-text">Know more</span>
-                                <span class="tp-btn-icon">
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </span>
-                            </a>
-                        </div>
+                      <h3 class="tp-about-border-text p-relative">
+                        Your Home Away From Home!
+                      </h3>
                     </div>
+                    <div
+                      class="row tp-align-center tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".4"
+                    >
+                      <div class="col-md-6">
+                        <p class="tp-about-cta-deg">
+                          Looking for a safe and affordable PG? Contact our team
+                          today.
+                        </p>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="tp-cta-phone tp-cta-phone-mid">
+                          <a class="tp-flex-center" href="tel:+919540936464">
+                            <span
+                              class="tp-cta-phone-icon tp-cta-phone-icon-mid mr-10"
+                            >
+                              <svg
+                                width="16"
+                                height="16"
+                                viewBox="0 0 16 16"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg"
+                              >
+                                <path
+                                  d="M12.496 7.00013C12.152 7.00013 11.88 6.72013 11.88 6.38414C11.88 6.08814 11.584 5.47214 11.088 4.93614C10.6 4.41615 10.064 4.11215 9.616 4.11215C9.272 4.11215 9 3.83215 9 3.49615C9 3.16016 9.28 2.88016 9.616 2.88016C10.416 2.88016 11.256 3.31215 11.992 4.08815C12.68 4.81615 13.12 5.72014 13.12 6.37614C13.12 6.72013 12.84 7.00013 12.496 7.00013Z"
+                                  fill="currentcolor"
+                                />
+                                <path
+                                  d="M15.3823 6.99996C15.0383 6.99996 14.7663 6.71996 14.7663 6.38396C14.7663 3.54398 12.4543 1.23999 9.62234 1.23999C9.27835 1.23999 9.00635 0.959994 9.00635 0.623996C9.00635 0.287998 9.27835 0 9.61434 0C13.1343 0 15.9983 2.86398 15.9983 6.38396C15.9983 6.71996 15.7183 6.99996 15.3823 6.99996Z"
+                                  fill="currentcolor"
+                                />
+                                <path
+                                  d="M7.83195 9.76794L5.21597 12.3839C4.92797 12.1279 4.64797 11.8639 4.37597 11.5919C3.55198 10.7599 2.80798 9.88794 2.14399 8.97594C1.48799 8.06395 0.959994 7.15196 0.575996 6.24796C0.191999 5.33597 0 4.46397 0 3.63198C0 3.08798 0.0959993 2.56798 0.287998 2.08799C0.479997 1.59999 0.783995 1.15199 1.20799 0.751995C1.71999 0.247999 2.27999 0 2.87198 0C3.09598 0 3.31998 0.0479998 3.51998 0.143999C3.72798 0.239999 3.91198 0.383998 4.05597 0.591996L5.91196 3.20798C6.05596 3.40798 6.15996 3.59198 6.23196 3.76798C6.30396 3.93598 6.34396 4.10397 6.34396 4.25597C6.34396 4.44797 6.28796 4.63997 6.17596 4.82397C6.07196 5.00797 5.91996 5.19997 5.72796 5.39197L5.11997 6.02396C5.03197 6.11196 4.99197 6.21596 4.99197 6.34396C4.99197 6.40796 4.99997 6.46396 5.01597 6.52796C5.03997 6.59196 5.06397 6.63996 5.07997 6.68796C5.22397 6.95196 5.47197 7.29596 5.82396 7.71195C6.18396 8.12795 6.56796 8.55195 6.98396 8.97594C7.27195 9.25594 7.55195 9.52794 7.83195 9.76794Z"
+                                  fill="currentcolor"
+                                />
+                                <path
+                                  d="M15.977 13.064C15.977 13.288 15.937 13.52 15.857 13.744C15.833 13.808 15.809 13.872 15.777 13.936C15.641 14.224 15.465 14.496 15.233 14.752C14.841 15.184 14.409 15.496 13.921 15.696C13.913 15.696 13.905 15.704 13.897 15.704C13.425 15.8959 12.913 15.9999 12.361 15.9999C11.545 15.9999 10.673 15.808 9.75303 15.416C8.83304 15.024 7.91304 14.496 7.00105 13.832C6.68905 13.6 6.37705 13.368 6.08105 13.12L8.69704 10.504C8.92104 10.672 9.12103 10.8 9.28903 10.888C9.32903 10.904 9.37703 10.928 9.43303 10.952C9.49703 10.976 9.56103 10.984 9.63303 10.984C9.76903 10.984 9.87303 10.936 9.96103 10.848L10.569 10.248C10.769 10.048 10.961 9.89599 11.145 9.79999C11.329 9.68799 11.513 9.63199 11.713 9.63199C11.865 9.63199 12.025 9.66399 12.201 9.73599C12.377 9.80799 12.561 9.91199 12.761 10.048L15.409 11.928C15.617 12.072 15.761 12.24 15.849 12.44C15.929 12.64 15.977 12.84 15.977 13.064Z"
+                                  fill="currentcolor"
+                                />
+                              </svg>
+                            </span>
+                            +91 95409 36464
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".4"
+                      data-ease="bounce"
+                    >
+                      <a href="about" class="tp-btn">
+                        <span class="tp-btn-text">Know more</span>
+                        <span class="tp-btn-icon">
+                          <svg
+                            width="12"
+                            height="12"
+                            viewBox="0 0 12 12"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M0.75 10.75L10.75 0.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                            <path
+                              d="M0.75 0.75H10.75V10.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                        </span>
+                      </a>
+                    </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </div>
-     </section>
-    <!-- about-area,end  -->
+          </section>
+          <!-- about-area,end  -->
 
-     <!-- project-area,start  -->
-      <!-- <section class="tp-project-area">
+          <!-- project-area,start  -->
+          <!-- <section class="tp-project-area">
         <div class="container-wide tp-project-spacing-2 p-relative">
             <div class="tp-project-back-text p-absolute">Selected work</div>
                 <div class="project-slider-wrap tp-project-slider-wrap">
@@ -459,11 +792,10 @@ Experience</span>
                 </div>
             </div>
       </section> -->
-     <!-- project-area,end  -->
+          <!-- project-area,end  -->
 
-
-      <!-- team-area,start  --> 
-        <!-- <section class="tp-team-area tp-team-spacing tp-team-spacing-3 fix">
+          <!-- team-area,start  -->
+          <!-- <section class="tp-team-area tp-team-spacing tp-team-spacing-3 fix">
             <div class="container">
                 <div class="tp-team-heading-2 mb-65">
                     <div class="row tp-justify-center">
@@ -615,366 +947,687 @@ Experience</span>
                 </div>
             </div>
         </section> -->
-      <!-- team-area,end  -->
+          <!-- team-area,end  -->
 
-
-     <!-- testimonail-area,start  -->
-      <section class="tp-testimonail-area pb-40 fix">
-        <div class="container p-relative">
-            <div class="row tp-justify-center">
+          <!-- testimonail-area,start  -->
+          <section class="tp-testimonail-area pb-40 fix">
+            <div class="container p-relative">
+              <div class="row tp-justify-center">
                 <div class="col-xl-9 col-lg-10 p-relative">
-                    <div class="swiper tp-testimonail-active">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="tp-testimonail">
-                                    <h3 class="tp-testimonail-title tp-text-center">
-    Staying at Goddess Accommodation has been a wonderful experience. 
-    The rooms are clean, the food is hygienic, and the staff is always helpful. 
-    I feel safe and comfortable here, just like at home.
-</h3>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="tp-testimonail">
-                                    <h3 class="tp-testimonail-title tp-text-center">
-    As a working professional, finding a reliable PG was important to me. 
-    The facilities, Wi-Fi, housekeeping, and security exceeded my expectations. 
-    Highly recommended for anyone looking for a hassle-free stay.
-</h3>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="tp-testimonail">
-                                    <h3 class="tp-testimonail-title tp-text-center">
-    The environment is peaceful and perfect for students. 
-    The rooms are spacious, meals are served on time, and the management 
-    is always available whenever assistance is needed.
-</h3>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="tp-testimonail">
-                                    <h3 class="tp-testimonail-title tp-text-center">
-    Goddess Accommodation truly feels like a home away from home. 
-    The facilities are excellent, the location is convenient, and the security 
-    arrangements give complete peace of mind.
-</h3>
-                                </div>
-                            </div>
+                  <div class="swiper tp-testimonail-active">
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="tp-testimonail">
+                          <h3 class="tp-testimonail-title tp-text-center">
+                            Staying at Vedant Living has been a wonderful
+                            experience. The rooms are clean, the food is
+                            hygienic, and the staff is always helpful. I feel
+                            safe and comfortable here, just like at home.
+                          </h3>
                         </div>
-                       <div class="tp-testimonail-pagination pt-50"></div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tp-testimonail">
+                          <h3 class="tp-testimonail-title tp-text-center">
+                            As a working professional, finding a reliable PG was
+                            important to me. The facilities, Wi-Fi,
+                            housekeeping, and security exceeded my expectations.
+                            Highly recommended for anyone looking for a
+                            hassle-free stay.
+                          </h3>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tp-testimonail">
+                          <h3 class="tp-testimonail-title tp-text-center">
+                            The environment is peaceful and perfect for
+                            students. The rooms are spacious, meals are served
+                            on time, and the management is always available
+                            whenever assistance is needed.
+                          </h3>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tp-testimonail">
+                          <h3 class="tp-testimonail-title tp-text-center">
+                            Vedant Living truly feels like a home away from
+                            home. The facilities are excellent, the location is
+                            convenient, and the security arrangements give
+                            complete peace of mind.
+                          </h3>
+                        </div>
+                      </div>
                     </div>
+                    <div class="tp-testimonail-pagination pt-50"></div>
+                  </div>
                 </div>
                 <div class="tp-testimonail-button-wrap d-none d-lg-flex">
-                    <div class="tp-testimonail-button-prev">
-                        <button class="tp-btn-swiper">
-                            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M12.75 6.75H0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                            <path d="M6.75 0.75L0.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                        </button>
-                    </div>
-                    <div class="tp-testimonail-button-next">
-                        <button class="tp-btn-swiper">
-                            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M0.75 6.75H12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                            <path d="M6.75 0.75L12.75 6.75L6.75 12.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                        </button>
-                    </div> 
+                  <div class="tp-testimonail-button-prev">
+                    <button class="tp-btn-swiper">
+                      <svg
+                        width="14"
+                        height="14"
+                        viewBox="0 0 14 14"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12.75 6.75H0.75"
+                          stroke="currentcolor"
+                          stroke-width="1.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                        <path
+                          d="M6.75 0.75L0.75 6.75L6.75 12.75"
+                          stroke="currentcolor"
+                          stroke-width="1.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    </button>
+                  </div>
+                  <div class="tp-testimonail-button-next">
+                    <button class="tp-btn-swiper">
+                      <svg
+                        width="14"
+                        height="14"
+                        viewBox="0 0 14 14"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M0.75 6.75H12.75"
+                          stroke="currentcolor"
+                          stroke-width="1.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                        <path
+                          d="M6.75 0.75L12.75 6.75L6.75 12.75"
+                          stroke="currentcolor"
+                          stroke-width="1.5"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    </button>
+                  </div>
                 </div>
+              </div>
             </div>
-        </div>
-      </section>
-     <!-- testimonail-area,end  -->
+          </section>
+          <!-- testimonail-area,end  -->
 
-    <!-- brand-area,start  -->
-        <section class="tp-brand-area tp-brand-spacing p-relative fix">
-            <div class="tp-brand-badge p-absolute">
-            </div>
+          <!-- brand-area,start  -->
+          <section class="tp-brand-area tp-brand-spacing p-relative fix">
+            <div class="tp-brand-badge p-absolute"></div>
             <div class="tp-brand-text marquee">
-                <div class="tp-brand-text-wrapper">
-                    <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
-                    </div>
-                    <div class="tp-brand-text-item">
-                    <h3 class="tp-brand-text-title">BOYS & GIRLS PG</h3>
-                    </div>
-                    <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
-                    </div>
-                    <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
-                    </div>
-                    <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">BOYS & GIRLS PG</h3>
-                    </div>
-                    <div class="tp-brand-text-item">
-                        <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
-                    </div>
+              <div class="tp-brand-text-wrapper">
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
                 </div>
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">GIRLS PG</h3>
+                </div>
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
+                </div>
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">SAFE & SECURE</h3>
+                </div>
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">GIRLS PG</h3>
+                </div>
+                <div class="tp-brand-text-item">
+                  <h3 class="tp-brand-text-title">COMFORTABLE LIVING</h3>
+                </div>
+              </div>
             </div>
-        </section>
-    <!-- brand-area,end  -->
-     
-    <!-- choose-area,start  -->
-    <section class="tp-choose-area default-margin tp-choose-slide-wrap-2 br-20 p-relative fix">
-        <div class="tp-choose-bg tp-bg-overlay tp-choose-spacing tp-bg tp-choose-slide-2 br-20 fix" data-background="assets/img/img/6.jpeg">
-            <div class="container">
-                <div class="tp-choose-heading">
-                    <div class="row tp-justify-center">
-                        <div class="col-xl-6 col-lg-8">
-                            <div class="tp-section-title-wrap tp-text-center">
-                                <span class="tp-section-sub-title tp-section-sub-title-trd mb-12">Why choose Landor</span>
-                                <h2 class="tp-section-title tp-section-title-mid-2 tp-text-white margin-0">An exceptional quality
-                                that can’t<span>be beaten</span></h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="tp-choose-wrap-spacing">
-            <div class="container">
-                <div class="tp-choose-slide-item pb-150">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6">
-                            <div class="tpchoose tpchoose__bluer-bg tpchoose__item-1 z-index-2" data-parallax-y="-1550" data-parallax-scrub="4">
-                                <div class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75">
-                                    <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                                    </svg>
-                                </div>
-                                <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Safe Accommodation</a></h4>
-                                    <p class="tp-text-white">Secure and comfortable living spaces for boys and girls with CCTV surveillance and controlled access.</p>
-                                </div>
-                            </div>                            
-                        </div>
-                        <div class="col-lg-6 col-md-6 tp-flex tp-justify-end">
-                            <div class="tpchoose tp-bg-orange tpchoose__item-2" data-parallax-y="-950" data-parallax-scrub="6">
-                                <div class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75">
-                                    <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                                    </svg>
-                                </div>
-                                <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Fully Furnished Rooms</a></h4>
-                                    <p class="tp-text-white">Well-maintained rooms equipped with beds, wardrobes, study tables, and modern amenities.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-choose-slide-item pb-150">
-                    <div class="row">
-                        <div class="col-xl-12 col-md-6 tp-choose-slide-item-2 d-flex tp-justify-end">
-                            <div class="tpchoose tp-bg-white tpchoose__item-3 z-index-2" data-parallax-y="-1500" data-parallax-scrub="4">
-                                <div class="tpchoose__icon tp-text-end mb-75">
-                                    <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                                    </svg>
-                                </div>
-                                <div class="tpchoose__content">
-                                    <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Healthy Meals</a></h4>
-                                    <p>Freshly prepared and hygienic breakfast, lunch, and dinner served daily for residents.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-choose-slide-item tp-choose-slide-item-3 tp-flex tp-justify-between pb-150 d-none d-lg-flex">
-                    <div class="tpchoose tp-bg-white tpchoose__item-1" data-parallax-y="-1350" data-parallax-scrub="4">
-                        <div class="tpchoose__icon tp-text-end mb-75">
-                            <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                            </svg>
-                        </div>
-                        <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">High-Speed Wi-Fi</a></h4>
-                            <p>Stay connected with reliable internet access for study, work, and entertainment.</p>
-                        </div>
-                    </div>
-                    <div class="tpchoose tp-bg-secoundery tpchoose__item-2" data-parallax-y="-1050" data-parallax-scrub="5">
-                        <div class="tpchoose__icon tp-text-end mb-75">
-                            <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                            </svg>
-                        </div>
-                        <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Housekeeping Services</a></h4>
-                            <p> Regular cleaning and maintenance ensure a neat, hygienic, and pleasant living environment.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-choose-slide-item tp-choose-slide-item-2 d-flex d-none d-lg-flex">
-                    <div class="tpchoose tp-bg-orange tpchoose__item-4" data-parallax-y="-200" data-parallax-scrub="2">
-                        <div class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75">
-                            <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                            </svg>
-                        </div>
-                        <div class="tpchoose__content">
-                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">24×7 Security</a></h4>
-                            <p class="tp-text-white">Round-the-clock monitoring and security measures provide complete peace of mind.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="tp-choose-slide-item d-flex tp-justify-between d-none d-lg-flex">
-                    <div class="tpchoose tp-bg-secoundery tpchoose__item-1 z-index-2" data-parallax-y="-650" data-parallax-scrub="5">
-                        <div class="tpchoose__icon tp-text-end mb-75">
-                            <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                            </svg>
-                        </div>
-                        <div class="tpchoose__content">
-                            <h4 class="tpchoose__title mb-15"><a href="services-grid-icon.html">Community Living<</a></h4>
-                            <p>Enjoy a friendly atmosphere where students and professionals can connect and grow together.</p>
-                        </div>
-                    </div>      
-                    <div class="tpchoose tpchoose__bluer-bg tpchoose__item-2 z-index-2" data-parallax-y="-360" data-parallax-scrub="5">
-                        <div class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75">
-                            <svg width="39" height="36" viewBox="0 0 39 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z" fill="currentcolor"/>
-                            </svg>
-                        </div>
-                        <div class="tpchoose__content">
-                            <h4 class="tpchoose__title tp-text-white mb-15"><a href="services-grid-icon.html">Power Backup</a></h4>
-                            <p class="tp-text-white"> Uninterrupted electricity supply ensures comfort and convenience at all times.</p>
-                        </div>
-                    </div> 
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- choose-area,end  -->
+          </section>
+          <!-- brand-area,end  -->
 
-      <!-- faq-area,start  -->
-       <section class="tp-faq-area tp-faq-spacing pt-150 pb-150 fix">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-4">
-                    <div class="tp-faq-heading">
-                        <div class="tp-section-title-wrap">
-                            <span class="tp-section-sub-title mb-12 tp_fade_anim" data-duration=".9">Our faq’s</span>
-                            <h2 class="tp-section-title margin-0 tp_fade_anim" data-duration=".9" data-delay=".2">Frequently asked<span>questions!</span></h2>
-                        </div>
-                        <div class="tp-faq-btn pt-45 tp_fade_anim" data-duration=".9" data-delay=".3" data-ease="bounce">
-                            <a href="contact.php" class="tp-btn">
-                            <span class="tp-btn-text">Contact Us</span>
-                                <span class="tp-btn-icon">
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </span>
-                            </a>
-                        </div>
+          <!-- choose-area,start  -->
+          <section
+            class="tp-choose-area default-margin tp-choose-slide-wrap-2 br-20 p-relative fix"
+          >
+            <div
+              class="tp-choose-bg tp-bg-overlay tp-choose-spacing tp-bg tp-choose-slide-2 br-20 fix"
+              data-background="assets/img/img/6.jpeg"
+            >
+              <div class="container">
+                <div class="tp-choose-heading">
+                  <div class="row tp-justify-center">
+                    <div class="col-xl-6 col-lg-8">
+                      <div class="tp-section-title-wrap tp-text-center">
+                        <span
+                          class="tp-section-sub-title tp-section-sub-title-trd mb-12"
+                          >Why choose Landor</span
+                        >
+                        <h2
+                          class="tp-section-title tp-section-title-mid-2 tp-text-white margin-0"
+                        >
+                          An exceptional quality that can’t<span
+                            >be beaten</span
+                          >
+                        </h2>
+                      </div>
                     </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tp-choose-wrap-spacing">
+              <div class="container">
+                <div class="tp-choose-slide-item pb-150">
+                  <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                      <div
+                        class="tpchoose tpchoose__bluer-bg tpchoose__item-1 z-index-2"
+                        data-parallax-y="-1550"
+                        data-parallax-scrub="4"
+                      >
+                        <div
+                          class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75"
+                        >
+                          <svg
+                            width="39"
+                            height="36"
+                            viewBox="0 0 39 36"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                              fill="currentcolor"
+                            />
+                          </svg>
+                        </div>
+                        <div class="tpchoose__content">
+                          <h4 class="tpchoose__title tp-text-white mb-15">
+                            <a href="services-grid-icon.html"
+                              >Safe Accommodation</a
+                            >
+                          </h4>
+                          <p class="tp-text-white">
+                            Secure and comfortable living spaces for girls with
+                            CCTV surveillance and controlled access.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 tp-flex tp-justify-end">
+                      <div
+                        class="tpchoose tp-bg-orange tpchoose__item-2"
+                        data-parallax-y="-950"
+                        data-parallax-scrub="6"
+                      >
+                        <div
+                          class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75"
+                        >
+                          <svg
+                            width="39"
+                            height="36"
+                            viewBox="0 0 39 36"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                              fill="currentcolor"
+                            />
+                          </svg>
+                        </div>
+                        <div class="tpchoose__content">
+                          <h4 class="tpchoose__title tp-text-white mb-15">
+                            <a href="services-grid-icon.html"
+                              >Fully Furnished Rooms</a
+                            >
+                          </h4>
+                          <p class="tp-text-white">
+                            Well-maintained rooms equipped with beds, wardrobes,
+                            study tables, and modern amenities.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tp-choose-slide-item pb-150">
+                  <div class="row">
+                    <div
+                      class="col-xl-12 col-md-6 tp-choose-slide-item-2 d-flex tp-justify-end"
+                    >
+                      <div
+                        class="tpchoose tp-bg-white tpchoose__item-3 z-index-2"
+                        data-parallax-y="-1500"
+                        data-parallax-scrub="4"
+                      >
+                        <div class="tpchoose__icon tp-text-end mb-75">
+                          <svg
+                            width="39"
+                            height="36"
+                            viewBox="0 0 39 36"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                              fill="currentcolor"
+                            />
+                          </svg>
+                        </div>
+                        <div class="tpchoose__content">
+                          <h4 class="tpchoose__title mb-15">
+                            <a href="services-grid-icon.html">Healthy Meals</a>
+                          </h4>
+                          <p>
+                            Freshly prepared and hygienic breakfast, lunch, and
+                            dinner served daily for residents.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="tp-choose-slide-item tp-choose-slide-item-3 tp-flex tp-justify-between pb-150 d-none d-lg-flex"
+                >
+                  <div
+                    class="tpchoose tp-bg-white tpchoose__item-1"
+                    data-parallax-y="-1350"
+                    data-parallax-scrub="4"
+                  >
+                    <div class="tpchoose__icon tp-text-end mb-75">
+                      <svg
+                        width="39"
+                        height="36"
+                        viewBox="0 0 39 36"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                          fill="currentcolor"
+                        />
+                      </svg>
+                    </div>
+                    <div class="tpchoose__content">
+                      <h4 class="tpchoose__title mb-15">
+                        <a href="services-grid-icon.html">High-Speed Wi-Fi</a>
+                      </h4>
+                      <p>
+                        Stay connected with reliable internet access for study,
+                        work, and entertainment.
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="tpchoose tp-bg-secoundery tpchoose__item-2"
+                    data-parallax-y="-1050"
+                    data-parallax-scrub="5"
+                  >
+                    <div class="tpchoose__icon tp-text-end mb-75">
+                      <svg
+                        width="39"
+                        height="36"
+                        viewBox="0 0 39 36"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                          fill="currentcolor"
+                        />
+                      </svg>
+                    </div>
+                    <div class="tpchoose__content">
+                      <h4 class="tpchoose__title mb-15">
+                        <a href="services-grid-icon.html"
+                          >Housekeeping Services</a
+                        >
+                      </h4>
+                      <p>
+                        Regular cleaning and maintenance ensure a neat,
+                        hygienic, and pleasant living environment.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="tp-choose-slide-item tp-choose-slide-item-2 d-flex d-none d-lg-flex"
+                >
+                  <div
+                    class="tpchoose tp-bg-orange tpchoose__item-4"
+                    data-parallax-y="-200"
+                    data-parallax-scrub="2"
+                  >
+                    <div
+                      class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75"
+                    >
+                      <svg
+                        width="39"
+                        height="36"
+                        viewBox="0 0 39 36"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                          fill="currentcolor"
+                        />
+                      </svg>
+                    </div>
+                    <div class="tpchoose__content">
+                      <h4 class="tpchoose__title tp-text-white mb-15">
+                        <a href="services-grid-icon.html">24×7 Security</a>
+                      </h4>
+                      <p class="tp-text-white">
+                        Round-the-clock monitoring and security measures provide
+                        complete peace of mind.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="tp-choose-slide-item d-flex tp-justify-between d-none d-lg-flex"
+                >
+                  <div
+                    class="tpchoose tp-bg-secoundery tpchoose__item-1 z-index-2"
+                    data-parallax-y="-650"
+                    data-parallax-scrub="5"
+                  >
+                    <div class="tpchoose__icon tp-text-end mb-75">
+                      <svg
+                        width="39"
+                        height="36"
+                        viewBox="0 0 39 36"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                          fill="currentcolor"
+                        />
+                      </svg>
+                    </div>
+                    <div class="tpchoose__content">
+                      <h4 class="tpchoose__title mb-15">
+                        <a href="services-grid-icon.html">Community Living<</a>
+                      </h4>
+                      <p>
+                        Enjoy a friendly atmosphere where students and
+                        professionals can connect and grow together.
+                      </p>
+                    </div>
+                  </div>
+                  <div
+                    class="tpchoose tpchoose__bluer-bg tpchoose__item-2 z-index-2"
+                    data-parallax-y="-360"
+                    data-parallax-scrub="5"
+                  >
+                    <div
+                      class="tpchoose__icon tpchoose__icon-white tp-text-end mb-75"
+                    >
+                      <svg
+                        width="39"
+                        height="36"
+                        viewBox="0 0 39 36"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M14.4403 6.04683L14.7701 5.63653C16.6542 3.28115 18.2359 1.22545 19.0635 0.137381C19.1808 -0.0159263 19.4001 -0.0453685 19.5537 0.0715648C22.9705 2.73222 26.0821 7.60262 25.4302 12.8147C25.2397 14.3776 24.8337 15.9066 24.2238 17.3581C22.9984 17.8463 21.8443 18.4975 20.793 19.2941C19.2274 20.4547 17.9316 21.9404 16.9945 23.6492C16.9843 23.6685 16.9752 23.6883 16.9672 23.7087C16.7603 24.1193 16.5839 24.5445 16.4393 24.9809C16.2993 24.7708 16.1522 24.5678 15.9982 24.3689C15.5228 21.0781 15.0088 13.0682 19.6972 6.2982C19.9062 5.98052 19.8234 5.55409 19.5108 5.33766C19.1981 5.12123 18.7698 5.19392 18.5461 5.5014C14.3066 11.6223 14.0762 18.6548 14.4088 22.7396C13.4788 21.9901 12.4505 21.3715 11.3525 20.901C7.79356 14.297 11.7852 9.33904 14.4403 6.04683ZM2.98408 28.7296C2.13215 26.2544 1.14649 23.8273 0.0314494 21.459C-0.0135426 21.3602 -0.0101032 21.246 0.0407596 21.1501C0.0916224 21.0541 0.184147 20.9872 0.291213 20.9689C5.49489 20.1588 13.2199 21.5101 15.695 26.4653C16.258 27.6692 16.6766 28.9355 16.942 30.2378C14.8534 27.3076 11.2496 24.3003 3.86769 22.7186C3.48951 22.6374 3.11709 22.8782 3.03589 23.2564C2.95468 23.6346 3.19543 24.007 3.57362 24.0882C13.4117 26.1964 15.9842 31.0241 17.0806 33.1435L17.0855 33.1533V33.1582C17.0922 33.1747 17.0996 33.1908 17.108 33.2065C17.2849 33.5437 17.4427 33.8906 17.5806 34.2456C17.6303 34.7196 17.6639 35.1208 17.6863 35.4177C7.28453 37.9432 3.94401 31.6101 2.98408 28.7296ZM35.2725 26.6025C33.4353 31.5037 26.4503 37.0792 19.0915 35.391C19.0418 34.6755 18.9207 33.3108 18.6595 31.7277C19.2309 29.5516 21.0751 23.4657 35.3979 19.8815C35.6457 19.8258 35.8438 19.6402 35.9157 19.3965C35.9876 19.1529 35.9218 18.8894 35.744 18.7081C35.5661 18.5268 35.3039 18.456 35.059 18.5232C26.0562 20.7736 20.4898 24.2716 18.1302 29.1707C17.9416 28.4131 17.7078 27.6675 17.43 26.9379C17.5363 26.0158 17.8121 25.1214 18.2436 24.2996C18.2534 24.2815 18.262 24.2628 18.2695 24.2436C19.1143 22.7363 20.2697 21.4256 21.6591 20.3983C22.6853 19.6221 23.8169 18.9964 25.0199 18.54H25.0255C29.7272 16.6944 35.5526 16.7896 38.0809 16.9408C38.1872 16.9466 38.285 17.0011 38.3457 17.0885C38.4065 17.176 38.4235 17.2866 38.3918 17.3882C37.8422 19.1863 36.7205 22.7431 35.2725 26.6025Z"
+                          fill="currentcolor"
+                        />
+                      </svg>
+                    </div>
+                    <div class="tpchoose__content">
+                      <h4 class="tpchoose__title tp-text-white mb-15">
+                        <a href="services-grid-icon.html">Power Backup</a>
+                      </h4>
+                      <p class="tp-text-white">
+                        Uninterrupted electricity supply ensures comfort and
+                        convenience at all times.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- choose-area,end  -->
+
+          <!-- faq-area,start  -->
+          <section class="tp-faq-area tp-faq-spacing pt-150 pb-150 fix">
+            <div class="container">
+              <div class="row">
+                <div class="col-xl-6 col-lg-4">
+                  <div class="tp-faq-heading">
+                    <div class="tp-section-title-wrap">
+                      <span
+                        class="tp-section-sub-title mb-12 tp_fade_anim"
+                        data-duration=".9"
+                        >Our faq’s</span
+                      >
+                      <h2
+                        class="tp-section-title margin-0 tp_fade_anim"
+                        data-duration=".9"
+                        data-delay=".2"
+                      >
+                        Frequently asked<span>questions!</span>
+                      </h2>
+                    </div>
+                    <div
+                      class="tp-faq-btn pt-45 tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".3"
+                      data-ease="bounce"
+                    >
+                      <a href="contact" class="tp-btn">
+                        <span class="tp-btn-text">Contact Us</span>
+                        <span class="tp-btn-icon">
+                          <svg
+                            width="12"
+                            height="12"
+                            viewBox="0 0 12 12"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M0.75 10.75L10.75 0.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                            <path
+                              d="M0.75 0.75H10.75V10.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                        </span>
+                      </a>
+                    </div>
+                  </div>
                 </div>
                 <div class="col-xl-6 col-lg-8">
-                    <div class="tp-faq tp_fade_anim" data-fade-from="right" data-delay=".5" data-duration=".9">
-                        <div class="accordion" id="accordionExample">
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-    01. Do you provide accommodation for both boys and girls?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    Yes, we provide separate and secure PG accommodation facilities for both boys and girls with all essential amenities.
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
-    02. What facilities are included in the PG?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapse2" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    Our PG includes fully furnished rooms, Wi-Fi, housekeeping, healthy meals, laundry support, power backup, and CCTV security.
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                   <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
-    03. Are meals provided to residents?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    Yes, we provide hygienic and nutritious meals daily, including breakfast, lunch, and dinner.
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
-    04. Is there 24×7 security available?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    Yes, the premises are monitored with CCTV surveillance and security measures to ensure a safe living environment.
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
-    05. Do you offer single and shared rooms?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    Yes, residents can choose from single, double, or shared occupancy rooms based on their preferences and availability.
-</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6">
-    06. How can I book a room?
-    <span class="tp-faq-arrow"></span>
-</button>
-                                </h3>
-                                <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">
-    You can contact us directly by phone, WhatsApp, or through our website to check availability and complete the booking process.
-</p>
-                                    </div>
-                                </div>
-                            </div>
+                  <div
+                    class="tp-faq tp_fade_anim"
+                    data-fade-from="right"
+                    data-delay=".5"
+                    data-duration=".9"
+                  >
+                    <div class="accordion" id="accordionExample">
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapseOne"
+                          >
+                            01. Do you provide accommodation for girls?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapseOne"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, we provide separate and secure PG
+                              accommodation facilities for girls with all
+                              essential amenities.
+                            </p>
+                          </div>
                         </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse2"
+                          >
+                            02. What facilities are included in the PG?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse2"
+                          class="accordion-collapse collapse show"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Our PG includes fully furnished rooms, Wi-Fi,
+                              housekeeping, healthy meals, laundry support,
+                              power backup, and CCTV security.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse3"
+                          >
+                            03. Are meals provided to residents?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse3"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, we provide hygienic and nutritious meals
+                              daily, including breakfast, lunch, and dinner.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse4"
+                          >
+                            04. Is there 24×7 security available?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse4"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, the premises are monitored with CCTV
+                              surveillance and security measures to ensure a
+                              safe living environment.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse5"
+                          >
+                            05. Do you offer single and shared rooms?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse5"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, residents can choose from single, double, or
+                              shared occupancy rooms based on their preferences
+                              and availability.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse6"
+                          >
+                            06. How can I book a room?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse6"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              You can contact us directly by phone, WhatsApp, or
+                              through our website to check availability and
+                              complete the booking process.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </div>
-       </section>
-      <!-- faq-area,end  -->
+          </section>
+          <!-- faq-area,end  -->
 
-         <!-- blog-area,start  -->
-            <!-- <section class="tp-blog-area tp-blog-spacing pt-150 pb-150 default-margin br-20 tp-bg-gray">
+          <!-- blog-area,start  -->
+          <!-- <section class="tp-blog-area tp-blog-spacing pt-150 pb-150 default-margin br-20 tp-bg-gray">
                 <div class="container">
                     <div class="tp-blog-heading mb-70">
                         <div class="tp-section-title-wrap tp-text-center">
@@ -1116,17 +1769,15 @@ Experience</span>
                     </div>
                 </div>
             </section> -->
-        <!-- blog-area,end  -->
+          <!-- blog-area,end  -->
+        </main>
+        <!-- main,end  -->
 
-     </main>
-    <!-- main,end  -->
-
-    <!-- footer,start  -->
-         <?php include 'footer.php'; ?>
-    <!-- footer,end  -->
-
-        </div>
-     </div>
+        <!-- footer,start  -->
+        <?php include 'footer.php'; ?>
+        <!-- footer,end  -->
+      </div>
+    </div>
     <!-- script,start -->
     <script src="assets/js/jquery-3.7.1.min.js"></script>
     <script src="assets/js/vandor/waypoints.js"></script>
@@ -1147,7 +1798,7 @@ Experience</span>
     <script src="assets/js/cursor.js"></script>
     <script src="assets/js/main.js"></script>
     <!-- script,end -->
-</body>
+  </body>
 
-<!-- Mirrored from html.aqlova.com/landor-prev/landor/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jun 2026 07:20:49 GMT -->
+  <!-- Mirrored from html.aqlova.com/landor-prev/landor/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jun 2026 07:20:49 GMT -->
 </html>

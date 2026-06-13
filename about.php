@@ -5,8 +5,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landor – Modern Real Estate & Property Listing HTML Template</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+    <!-- SEO Title -->
+    <title>About Vedant Living | Safe & Comfortable PG for Girls</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Learn about Vedant Living, a trusted PG for Girls offering safe, comfortable, and affordable accommodation with modern amenities, healthy meals, and 24/7 security.">
+
+    <meta name="keywords" content="About Vedant Living, PG for Girls, Girls Hostel, Student Accommodation, Working Women PG, Safe PG, Girls Accommodation Delhi">
+
+    <meta name="author" content="Vedant Living">
+    <meta name="robots" content="index, follow">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.vedantliving.com/about">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="About Vedant Living | PG for Girls">
+    <meta property="og:description" content="Discover Vedant Living's mission to provide safe, secure, and comfortable accommodation for girls.">
+    <meta property="og:image" content="assets/img/logo/android-chrome-512x512.png">
+    <meta property="og:url" content="https://www.vedantliving.com/about">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="About Vedant Living | PG for Girls">
+    <meta name="twitter:description" content="Safe, secure and comfortable accommodation designed for girls.">
+    <meta name="twitter:image" content="assets/img/logo/android-chrome-512x512.png">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon_io/favicon-16x16.png">
+    <link rel="shortcut icon" href="assets/img/logo/favicon_io/favicon.ico">
+    <link rel="manifest" href="assets/img/logo/favicon_io/site.webmanifest">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0D2A3D">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
@@ -56,7 +93,7 @@
         <div class="tp-offcanvas-wrapper">
             <div class="tp-offcanvas-header d-flex align-items-center justify-content-between mb-40">
                 <div class="tp-offcanvas-logo">
-                    <a href="index.html"><img data-width="163" src="assets/img/logo/logo-black.png" alt="logo-ing"></a>
+                    <a href="/"><img data-width="163" src="assets/img/logo/logo-black.png" alt="logo-ing"></a>
                 </div>
                 <div class="tp-offcanvas-button">
                     <button class="tp-offcanvas-button-close tp-offcanvas-close-toggle"><i class="fas fa-times"></i>
@@ -127,7 +164,7 @@
         <div class="container">
             <div class="tp-breadcrumb pb-50">
                 <div class="tp-breadcrumb-menu tp-flex-center mb-15 pt-35">
-                    <span><a href="index.html">Home</a></span>
+                    <span><a href="/">Home</a></span>
                     <span class="tp-breadcrumb-dvdr">-</span>
                     <span>About us</span>
                 </div>
@@ -148,7 +185,7 @@
                 and managers across the globe, delivering <br>
                 long-term value<span>through innovation</span></h2>
             </div>
-            <div class="row">
+            <div class="row py-5">
                 <div class="col-lg-6">
                     <div class="tp-about-image br-20 p-relative">
                         <div class="anim-zoomin-wrap br-20">
@@ -158,19 +195,99 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
+    <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
+
+        <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border mb-35 tp_fade_anim"
+            data-duration=".9" data-delay=".3">
+              <h3>About Us</h3>
+            <p class="mb-30">
+                At <strong>Vedant Living</strong>, we provide safe, comfortable,
+                and well-maintained PG accommodation exclusively for girls.
+                Our goal is to create a secure and homely environment where
+                students and working professionals can focus on their studies,
+                careers, and personal growth. With modern amenities, hygienic
+                facilities, and a supportive atmosphere, Vedant Living is more
+                than just a place to stay—it's a place to feel at home.
+            </p>
+
+            <h3 class="tp-about-border-text p-relative">
+                Your Comfort, Safety & Happiness Come First!
+            </h3>
+        </div>
+
+        <div class="row tp-align-center tp_fade_anim"
+            data-duration=".9" data-delay=".4">
+
+            <div class="col-md-6">
+                <p class="tp-about-cta-deg">
+                    Looking for a safe and comfortable PG for girls?
+                    Contact our team today.
+                </p>
+            </div>
+
+            <div class="col-md-6">
+                <div class="tp-cta-phone tp-cta-phone-mid">
+                    <a class="tp-flex-center" href="tel:+919217664414">
+
+                        <span class="tp-cta-phone-icon tp-cta-phone-icon-mid mr-10">
+                            <!-- Keep existing SVG icon here -->
+                        </span>
+
+                        +91 92176 64414
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim"
+            data-duration=".9" data-delay=".4" data-ease="bounce">
+
+            <a href="contact" class="tp-btn">
+                <span class="tp-btn-text">Book Your Stay</span>
+
+                <span class="tp-btn-icon">
+                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.75 10.75L10.75 0.75"
+                            stroke="currentcolor" stroke-width="1.5"
+                            stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M0.75 0.75H10.75V10.75"
+                            stroke="currentcolor" stroke-width="1.5"
+                            stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+            </a>
+
+        </div>
+
+    </div>
+</div>
+            </div>
+            <div class="row py-5">
+                <div class="col-lg-6">
                     <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
-                       <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border pb-65 mb-35 tp_fade_anim" data-duration=".9" data-delay=".3">
-                          <p class="mb-30">We are a privately owned real estate company dedicated to delivering
-                            innovative property solutions across the globe. Our team specializes
-                            in real estate investment, property management, and development,
-                            with a clear focus on quality and sustainability. By combining market
-                            expertise with a client-first approach</p>
-                            <h3 class="tp-about-border-text p-relative">Let’s shape something remarkable !</h3>
+                       <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border mb-35 tp_fade_anim" data-duration=".9" data-delay=".3">
+                        <h3>Our Mission</h3>
+                          <p class="mb-30">
+    Our mission at <strong>Vedant Living</strong> is to provide a safe,
+    comfortable, and supportive living environment for girls. We are committed
+    to offering quality accommodation with modern amenities, cleanliness,
+    security, and a homely atmosphere that helps residents focus on their
+    education, careers, and personal growth. Through exceptional service and
+    care, we strive to make every resident feel valued, respected, and at home.
+</p>
+
+<h3 class="tp-about-border-text p-relative">
+    Empowering Girls Through Safe & Comfortable Living
+</h3>
                        </div>
                        <div class="row tp-align-center tp_fade_anim" data-duration=".9" data-delay=".4">
                             <div class="col-md-6">
-                                <p class="tp-about-cta-deg">If you have any question? Feel free
-                                    can contact with team.</p>
+                                <p class="tp-about-cta-deg">
+    Have questions about our facilities or accommodation?
+    Our team is here to help.
+</p>
                             </div>
                             <div class="col-md-6">
                                 <div class="tp-cta-phone tp-cta-phone-mid">
@@ -189,8 +306,8 @@
                             </div>
                        </div>
                         <div class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim" data-duration=".9" data-delay=".4" data-ease="bounce">
-                            <a href="about.html" class="tp-btn">
-                                <span class="tp-btn-text">Learn More</span>
+                            <a href="about" class="tp-btn">
+                                <span class="tp-btn-text">Contact Us</span>
                                 <span class="tp-btn-icon">
                                     <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -201,6 +318,77 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-6">
+                    <div class="tp-about-image br-20 p-relative">
+                        <div class="anim-zoomin-wrap br-20">
+                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                        </div>
+                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="row py-5">
+                <div class="col-lg-6">
+                    <div class="tp-about-image br-20 p-relative">
+                        <div class="anim-zoomin-wrap br-20">
+                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                        </div>
+                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+    <div class="tp-about-content tp-about-content-2 pl-50 ml-35">
+
+        <div class="tp-about-deg tp-about-deg-2 tp-about-deg-border mb-35 tp_fade_anim" data-duration=".9" data-delay=".3">
+            <h3>Our Vission</h3>
+            <p class="mb-30">
+                At <strong>Vedant Living</strong>, our vision is to become the most trusted and preferred PG accommodation for girls by creating a safe, welcoming, and empowering living environment. We aspire to provide more than just a place to stay by building a community where residents feel secure, comfortable, and inspired to achieve their academic, professional, and personal goals.
+            </p>
+
+            <h3 class="tp-about-border-text p-relative">
+                Building a Better Living Experience for Every Girl
+            </h3>
+        </div>
+
+        <div class="row tp-align-center tp_fade_anim" data-duration=".9" data-delay=".4">
+            <div class="col-md-6">
+                <p class="tp-about-cta-deg">
+                    Have questions about our accommodation or facilities?
+                    We're always happy to assist you.
+                </p>
+            </div>
+
+            <div class="col-md-6">
+                <div class="tp-cta-phone tp-cta-phone-mid">
+                    <a class="tp-flex-center" href="tel:+919217664414">
+                        <span class="tp-cta-phone-icon tp-cta-phone-icon-mid mr-10">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12.496 7.00013C12.152 7.00013 11.88 6.72013 11.88 6.38414C11.88 6.08814 11.584 5.47214 11.088 4.93614C10.6 4.41615 10.064 4.11215 9.616 4.11215C9.272 4.11215 9 3.83215 9 3.49615C9 3.16016 9.28 2.88016 9.616 2.88016C10.416 2.88016 11.256 3.31215 11.992 4.08815C12.68 4.81615 13.12 5.72014 13.12 6.37614C13.12 6.72013 12.84 7.00013 12.496 7.00013Z" fill="currentcolor"/>
+                                <path d="M15.3823 6.99996C15.0383 6.99996 14.7663 6.71996 14.7663 6.38396C14.7663 3.54398 12.4543 1.23999 9.62234 1.23999C9.27835 1.23999 9.00635 0.959994 9.00635 0.623996C9.00635 0.287998 9.27835 0 9.61434 0C13.1343 0 15.9983 2.86398 15.9983 6.38396C15.9983 6.71996 15.7183 6.99996 15.3823 6.99996Z" fill="currentcolor"/>
+                                <path d="M7.83195 9.76794L5.21597 12.3839C4.92797 12.1279 4.64797 11.8639 4.37597 11.5919C3.55198 10.7599 2.80798 9.88794 2.14399 8.97594C1.48799 8.06395 0.959994 7.15196 0.575996 6.24796C0.191999 5.33597 0 4.46397 0 3.63198C0 3.08798 0.0959993 2.56798 0.287998 2.08799C0.479997 1.59999 0.783995 1.15199 1.20799 0.751995C1.71999 0.247999 2.27999 0 2.87198 0C3.09598 0 3.31998 0.0479998 3.51998 0.143999C3.72798 0.239999 3.91198 0.383998 4.05597 0.591996L5.91196 3.20798C6.05596 3.40798 6.15996 3.59198 6.23196 3.76798C6.30396 3.93598 6.34396 4.10397 6.34396 4.25597C6.34396 4.44797 6.28796 4.63997 6.17596 4.82397C6.07196 5.00797 5.91996 5.19997 5.72796 5.39197L5.11997 6.02396C5.03197 6.11196 4.99197 6.21596 4.99197 6.34396C4.99197 6.40796 4.99997 6.46396 5.01597 6.52796C5.03997 6.59196 5.06397 6.63996 5.07997 6.68796C5.22397 6.95196 5.47197 7.29596 5.82396 7.71195C6.18396 8.12795 6.56796 8.55195 6.98396 8.97594C7.27195 9.25594 7.55195 9.52794 7.83195 9.76794Z" fill="currentcolor"/>
+                                <path d="M15.977 13.064C15.977 13.288 15.937 13.52 15.857 13.744C15.833 13.808 15.809 13.872 15.777 13.936C15.641 14.224 15.465 14.496 15.233 14.752C14.841 15.184 14.409 15.496 13.921 15.696C13.913 15.696 13.905 15.704 13.897 15.704C13.425 15.8959 12.913 15.9999 12.361 15.9999C11.545 15.9999 10.673 15.808 9.75303 15.416C8.83304 15.024 7.91304 14.496 7.00105 13.832C6.68905 13.6 6.37705 13.368 6.08105 13.12L8.69704 10.504C8.92104 10.672 9.12103 10.8 9.28903 10.888C9.32903 10.904 9.37703 10.928 9.43303 10.952C9.49703 10.976 9.56103 10.984 9.63303 10.984C9.76903 10.984 9.87303 10.936 9.96103 10.848L10.569 10.248C10.769 10.048 10.961 9.89599 11.145 9.79999C11.329 9.68799 11.513 9.63199 11.713 9.63199C11.865 9.63199 12.025 9.66399 12.201 9.73599C12.377 9.80799 12.561 9.91199 12.761 10.048L15.409 11.928C15.617 12.072 15.761 12.24 15.849 12.44C15.929 12.64 15.977 12.84 15.977 13.064Z" fill="currentcolor"/>
+                            </svg>
+                        </span>
+                        +91 92176 64414
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="tp-about-btn tp-about-btn-2 pt-40 tp_fade_anim" data-duration=".9" data-delay=".4" data-ease="bounce">
+            <a href="contact" class="tp-btn">
+                <span class="tp-btn-text">Get In Touch</span>
+                <span class="tp-btn-icon">
+                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+            </a>
+        </div>
+
+    </div>
+</div>
             </div>
         </div>
      </section>
@@ -210,7 +398,7 @@
     <section class="tp-testimonail-area">
         <div class="container-wide">
             <div class="tp-solid-bg tp-bg br-20 p-relative jarallax" data-background="assets/img/solid-bg/solid-bg.jpg">
-                <div class="tp-testi-card">
+                <!-- <div class="tp-testi-card">
                     <div class="tp-testi-card-left">
                         <div class="tp-testi-card-awards">
                             <img src="assets/img/testimonail/testimonail-award-1.html" alt="">
@@ -235,14 +423,14 @@
                             <p class="fs-20 tp-text-black margin-0">Satisfaction level</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
     <!-- testimonail-area,end  -->
 
     <!-- floting-card-area,start  -->
-     <section class="tp-floting-card-area">
+     <!-- <section class="tp-floting-card-area">
         <div class="container">
             <div class="tp-floting-card-main p-relative">
                 <div class="tp-floting-card-content reval-line">
@@ -276,160 +464,152 @@
                 </div>
             </div>
         </div>
-     </section>
+     </section> -->
     <!-- floting-card-area,end  -->
 
     <!-- team-area,start  -->
         <section class="tp-team-area default-margin tp-team-spacing tp-team-spacing-2 tp-bg-gray br-20 fix">
             <div class="container">
                 <div class="tp-team-heading mb-70">
-                    <div class="tp-section-title-wrap tp-text-center">
-                        <span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">Our team members</span>
-                        <h2 class="tp-section-title margin-0 tp_fade_anim" data-delay=".2" data-duration=".9">Discover the talent and vision of <br>
-                        our creative<span> team members.</span></h2>
-                    </div>
-                </div>
+    <div class="tp-section-title-wrap tp-text-center">
+        <span class="tp-section-sub-title mb-12 tp_fade_anim" data-delay=".1" data-duration=".9">
+            Why Choose Vedant Living
+        </span>
+
+        <h2 class="tp-section-title margin-0 tp_fade_anim" data-delay=".2" data-duration=".9">
+            Everything You Need For A <br>
+            Comfortable & Secure <span>Stay</span>
+        </h2>
+    </div>
+</div>
                 <div class="swiper tp-team-active-2 pb-90 tp_fade_anim" data-delay=".3" data-duration=".9">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-1.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Cristopher</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-2.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Silver Oak</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-3.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Benjamin</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-4.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Dominic</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-1.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Frederick</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="tpteam__circle">
-                                <div class="tpteam__circle-thumb p-relative">
-                                    <img src="assets/img/team/team-2-member-2.html" alt="">
-                                    <div class="tpteam__circle--content p-absolute">
-                                        <div class="tpteam__circle--content-wrap">
-                                            <h3 class="tpteam__circle-title tp-text-white"><a href="team-details.html">Jonathan</a></h3>
-                                            <span class="fw-500 d-inline-block mb-30 tp-text-white">Engineer</span>
-                                            <a href="team-details.html" class="tpteam__circle-btn">
-                                                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.00002 14C6.47458 14 6.04883 13.5742 6.04883 13.0488V0.95119C6.04883 0.425753 6.47458 0 7.00002 0C7.52546 0 7.95121 0.425753 7.95121 0.95119V13.0488C7.95121 13.5742 7.52546 14 7.00002 14Z" fill="currentcolor"/>
-                                                <path d="M13.0488 7.95121H0.95119C0.425753 7.95121 0 7.52546 0 7.00002C0 6.47458 0.425753 6.04883 0.95119 6.04883H13.0488C13.5742 6.04883 14 6.47458 14 7.00002C14 7.52546 13.5742 7.95121 13.0488 7.95121Z" fill="currentcolor"/>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/1.jpg" alt="24/7 Security" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">24/7 Security</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Safe & Secure Environment
+                        </span>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/2.jpg" alt="Furnished Rooms" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">Furnished Rooms</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Comfortable Living Spaces
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/3.jpg" alt="High Speed WiFi" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">High-Speed WiFi</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Stay Connected Always
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/4.jpg" alt="Meals" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">Healthy Meals</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Home-Style Food Daily
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/5.jpg" alt="Housekeeping" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">Housekeeping</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Clean & Hygienic Rooms
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="swiper-slide">
+        <div class="tpteam__circle">
+            <div class="tpteam__circle-thumb p-relative">
+                <img src="assets/img/about/6.jpg" alt="Community" style="width:100%; height:350px; object-fit:cover;">
+                <div class="tpteam__circle--content p-absolute">
+                    <div class="tpteam__circle--content-wrap">
+                        <h3 class="tpteam__circle-title tp-text-white">Friendly Community</h3>
+                        <span class="fw-500 d-inline-block mb-30 tp-text-white">
+                            Feel At Home
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
                 </div>
                 <div class="row tp-justify-center tp_fade_anim" data-delay=".4" data-duration=".9">
                     <div class="col-xl-6 col-lg-8">
                         <div class="tpteam__circle-btn-wrap tp-flex-center tp-justify-between">
-                            <a href="team.html" class="tp-btn tp-btn-border">
-                                <span class="tp-btn-text">See all Member</span>
-                                <span class="tp-btn-icon">
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                    <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                    </svg>
-                                </span>
-                            </a>
-                            <div class="tpteam__circle-pagination tp-flex-center"></div>
-                            <a href="team.html" class="tp-btn">
-                                <span class="tp-btn-text">Join With Team</span>
-                                <span class="tp-btn-icon">
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                    <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-                                    </svg>
-                                </span>
-                            </a>
-                        </div>
+
+    <a href="amenities" class="tp-btn tp-btn-border">
+        <span class="tp-btn-text">View Amenities</span>
+        <span class="tp-btn-icon">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5"/>
+                <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5"/>
+            </svg>
+        </span>
+    </a>
+
+    <div class="tpteam__circle-pagination tp-flex-center"></div>
+
+    <a href="contact" class="tp-btn">
+        <span class="tp-btn-text">Book Your Stay</span>
+        <span class="tp-btn-icon">
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none">
+                <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5"/>
+                <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5"/>
+            </svg>
+        </span>
+    </a>
+
+</div>
                     </div>
                 </div>
             </div>
@@ -438,126 +618,229 @@
 
       <!-- faq-area,start  -->
        <section class="tp-faq-area tp-faq-spacing pt-150 pb-150 fix">
-        <div class="container">
-            <div class="row">
+            <div class="container">
+              <div class="row">
                 <div class="col-xl-6 col-lg-4">
-                    <div class="tp-faq-heading">
-                        <div class="tp-section-title-wrap">
-                            <span class="tp-section-sub-title mb-12 tp_fade_anim" data-duration=".9">Our faq’s</span>
-                            <h2 class="tp-section-title margin-0 tp_fade_anim" data-duration=".9" data-delay=".2">Frequently asked<span>questions!</span></h2>
-                        </div>
-                        <div class="tp-faq-btn pt-45 tp_fade_anim" data-duration=".9" data-delay=".3" data-ease="bounce">
-                            <a href="faq.html" class="tp-btn">
-                            <span class="tp-btn-text">Learn More</span>
-                                <span class="tp-btn-icon">
-                                    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.75 10.75L10.75 0.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    <path d="M0.75 0.75H10.75V10.75" stroke="currentcolor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                                    </svg>
-                                </span>
-                            </a>
-                        </div>
+                  <div class="tp-faq-heading">
+                    <div class="tp-section-title-wrap">
+                      <span
+                        class="tp-section-sub-title mb-12 tp_fade_anim"
+                        data-duration=".9"
+                        >Our faq’s</span
+                      >
+                      <h2
+                        class="tp-section-title margin-0 tp_fade_anim"
+                        data-duration=".9"
+                        data-delay=".2"
+                      >
+                        Frequently asked<span>questions!</span>
+                      </h2>
                     </div>
+                    <div
+                      class="tp-faq-btn pt-45 tp_fade_anim"
+                      data-duration=".9"
+                      data-delay=".3"
+                      data-ease="bounce"
+                    >
+                      <a href="contact" class="tp-btn">
+                        <span class="tp-btn-text">Contact Us</span>
+                        <span class="tp-btn-icon">
+                          <svg
+                            width="12"
+                            height="12"
+                            viewBox="0 0 12 12"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M0.75 10.75L10.75 0.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                            <path
+                              d="M0.75 0.75H10.75V10.75"
+                              stroke="currentcolor"
+                              stroke-width="1.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                            />
+                          </svg>
+                        </span>
+                      </a>
+                    </div>
+                  </div>
                 </div>
                 <div class="col-xl-6 col-lg-8">
-                    <div class="tp-faq tp_fade_anim" data-fade-from="right" data-delay=".5" data-duration=".9">
-                        <div class="accordion" id="accordionExample">
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        01. How do I start the process of buying a property?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
-                                       02. What services does your real estate agency provide?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapse2" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
-                                       03. Do you assist with paperwork and legal procedures?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
-                                       04. Which projects are safest for long-term growth?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="true" aria-controls="collapse5">
-                                        05. What legal checks should I do before buying land?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tp-faq-item">
-                                <h3 class="tp-faq-header margin-0">
-                                    <button class="tp-faq-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-                                       06. Do you offer construction or architecture services?
-                                        <span class="tp-faq-arrow"></span>
-                                    </button>
-                                </h3>
-                                <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                    <div class="tp-faq-body">
-                                        <p class="margin-0">We are a privately owned real estate company dedicated to delivering
-                                        innovative property solutions across the globe. Our team specializes
-                                        in real estate investment, property management</p>
-                                    </div>
-                                </div>
-                            </div>
+                  <div
+                    class="tp-faq tp_fade_anim"
+                    data-fade-from="right"
+                    data-delay=".5"
+                    data-duration=".9"
+                  >
+                    <div class="accordion" id="accordionExample">
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapseOne"
+                          >
+                            01. Do you provide accommodation for girls?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapseOne"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, we provide separate and secure PG
+                              accommodation facilities for girls with all
+                              essential amenities.
+                            </p>
+                          </div>
                         </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse2"
+                          >
+                            02. What facilities are included in the PG?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse2"
+                          class="accordion-collapse collapse show"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Our PG includes fully furnished rooms, Wi-Fi,
+                              housekeeping, healthy meals, laundry support,
+                              power backup, and CCTV security.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse3"
+                          >
+                            03. Are meals provided to residents?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse3"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, we provide hygienic and nutritious meals
+                              daily, including breakfast, lunch, and dinner.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse4"
+                          >
+                            04. Is there 24×7 security available?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse4"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, the premises are monitored with CCTV
+                              surveillance and security measures to ensure a
+                              safe living environment.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse5"
+                          >
+                            05. Do you offer single and shared rooms?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse5"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              Yes, residents can choose from single, double, or
+                              shared occupancy rooms based on their preferences
+                              and availability.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tp-faq-item">
+                        <h3 class="tp-faq-header margin-0">
+                          <button
+                            class="tp-faq-button collapsed"
+                            type="button"
+                            data-bs-toggle="collapse"
+                            data-bs-target="#collapse6"
+                          >
+                            06. How can I book a room?
+                            <span class="tp-faq-arrow"></span>
+                          </button>
+                        </h3>
+                        <div
+                          id="collapse6"
+                          class="accordion-collapse collapse"
+                          data-bs-parent="#accordionExample"
+                        >
+                          <div class="tp-faq-body">
+                            <p class="margin-0">
+                              You can contact us directly by phone, WhatsApp, or
+                              through our website to check availability and
+                              complete the booking process.
+                            </p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
+                  </div>
                 </div>
+              </div>
             </div>
-        </div>
-       </section>
+          </section>
       <!-- faq-area,end  -->
      </main>
     <!-- main,end  -->

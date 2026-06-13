@@ -1,18 +1,55 @@
 <!doctype html>
 <html lang="en">
   <!-- Mirrored from html.aqlova.com/landor-prev/landor/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 09 Jun 2026 07:22:38 GMT -->
-  <head>
+ <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Landor – Modern Real Estate & Property Listing HTML Template</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png" />
+
+    <!-- SEO Title -->
+    <title>Contact Vedant Living | PG for Girls</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Contact Vedant Living for safe and comfortable PG accommodation for girls. Get information about rooms, facilities, meals, security, pricing, and bookings." />
+
+    <meta name="keywords" content="Contact Vedant Living, PG for Girls Contact, Girls Hostel Contact, PG Booking, Student Accommodation, Working Women PG, Girls PG Delhi">
+
+    <meta name="author" content="Vedant Living" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Canonical -->
+    <link rel="canonical" href="https://www.vedantliving.com/contact" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contact Vedant Living | PG for Girls" />
+    <meta property="og:description" content="Get in touch with Vedant Living for accommodation inquiries, room availability, and bookings." />
+    <meta property="og:image" content="assets/img/logo/android-chrome-512x512.png" />
+    <meta property="og:url" content="https://www.vedantliving.com/contact" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contact Vedant Living | PG for Girls" />
+    <meta name="twitter:description" content="Contact us for room bookings, facilities information, and accommodation support." />
+    <meta name="twitter:image" content="assets/img/logo/android-chrome-512x512.png" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon_io/favicon-16x16.png">
+    <link rel="shortcut icon" href="assets/img/logo/favicon_io/favicon.ico">
+    <link rel="manifest" href="assets/img/logo/favicon_io/site.webmanifest">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0D2A3D">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/font-awesome-pro.css" />
     <link rel="stylesheet" href="assets/css/spacing.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
-  </head>
+</head>
   <body class="tp-magic-cursor">
     <!-- header,start  -->
     <?php include 'header.php'; ?>
@@ -67,7 +104,7 @@
           class="tp-offcanvas-header d-flex align-items-center justify-content-between mb-40"
         >
           <div class="tp-offcanvas-logo">
-            <a href="index.html"
+            <a href="/"
               ><img
                 data-width="163"
                 src="assets/img/logo/logo-black.png"
@@ -219,7 +256,7 @@
                     <div class="container">
                       <div class="tp-breadcrumb">
                         <div class="tp-breadcrumb-menu tp-flex-center pt-35">
-                          <span><a href="index.html">Home</a></span>
+                          <span><a href="/">Home</a></span>
                           <span class="tp-breadcrumb-dvdr">-</span>
                           <span>Contact us</span>
                         </div>
@@ -240,7 +277,7 @@
         <div class="container">
             <div class="tp-breadcrumb pb-50">
                 <div class="tp-breadcrumb-menu tp-flex-center mb-15 pt-35">
-                    <span><a href="index.html">Home</a></span>
+                    <span><a href="/">Home</a></span>
                     <span class="tp-breadcrumb-dvdr">-</span>
                     <span>Contact us</span>
                 </div>

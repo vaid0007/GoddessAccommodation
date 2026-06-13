@@ -28,30 +28,30 @@
                     <div class="row gx-0 tp-align-center">
                         <div class="col-xl-3 col-lg-4 col-md-5 col-5">
                             <div class="tp-header-logo">
-                                <a href="index.html"><img data-width="163" src="assets/img/logo/logo2.png" alt="logo-black"></a>
+                                <a href="/"><img data-width="163" src="assets/img/logo/logo2.png" alt="logo-black"></a>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-2 col-md-1 col-2">
                             <div class="tp-header-menu tp-header-menu-grey tp-text-center d-none d-xl-inline-block">
                                 <nav class="tp-mobile-menu-active">
                                     <ul>
-                                        <li><a href="index.php">Home</a>
+                                        <li><a href="/">Home</a>
                                             
                                         </li>
-                                        <li><a href="about.php">about</a>
+                                        <li><a href="about">about</a>
                                         </li>
-                                        <li><a href="services.php">Services</a>
+                                        <li><a href="services">Services</a>
                                             <ul class="sub-menu">
-    <li><a href="accommodation.php"><span>Accommodation</span></a></li>
-    <li><a href="food-dining.php"><span>Food & Dining</span></a></li>
-    <li><a href="safety-security.php"><span>Safety & Security</span></a></li>
-    <li><a href="facilities-amenities.php"><span>Facilities & Amenities</span></a></li>
-    <li><a href="housekeeping-laundry.php"><span>Housekeeping & Laundry</span></a></li>
+    <li><a href="accommodation"><span>Accommodation</span></a></li>
+    <li><a href="food-dining"><span>Food & Dining</span></a></li>
+    <li><a href="safety-security"><span>Safety & Security</span></a></li>
+    <li><a href="facilities-amenities"><span>Facilities & Amenities</span></a></li>
+    <li><a href="housekeeping-laundry"><span>Housekeeping & Laundry</span></a></li>
 </ul>
                                         </li>
-                                        <li><a href="gallery.php">Gallery</a>
+                                        <li><a href="gallery">Gallery</a>
                                         </li>
-                                        <li><a href="contact.php">Contact</a></li>
+                                        <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -71,7 +71,7 @@
                                     </a>
                                 </div>
                                 <div class="tp-header-cta-button d-none d-md-inline-block">
-                                    <a href="contact.html" class="tp-btn tp-btn-border">
+                                    <a href="contact" class="tp-btn tp-btn-border">
                                     <span class="tp-btn-text">Get in touch</span>
                                         <span class="tp-btn-icon">
                                             <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">

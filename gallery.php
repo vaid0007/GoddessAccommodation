@@ -5,8 +5,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landor – Modern Real Estate & Property Listing HTML Template</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+    <!-- SEO Title -->
+    <title>Gallery | Vedant Living - PG for Girls</title>
+
+    <!-- SEO Meta Description -->
+    <meta name="description" content="Explore the Vedant Living gallery and discover our comfortable rooms, dining facilities, study spaces, amenities, security features, and welcoming environment for girls.">
+
+    <!-- SEO Keywords -->
+    <meta name="keywords" content="Vedant Living Gallery, PG for Girls Gallery, Girls Hostel Photos, Accommodation Gallery, Furnished Rooms, Student Accommodation, Girls PG Images">
+
+    <meta name="author" content="Vedant Living">
+    <meta name="robots" content="index, follow">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.vedantliving.com/gallery">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Gallery | Vedant Living - PG for Girls">
+    <meta property="og:description" content="View our gallery showcasing rooms, amenities, dining facilities, study areas, and comfortable living spaces at Vedant Living.">
+    <meta property="og:image" content="assets/img/logo/android-chrome-512x512.png">
+    <meta property="og:url" content="https://www.vedantliving.com/gallery">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Gallery | Vedant Living - PG for Girls">
+    <meta name="twitter:description" content="Take a visual tour of Vedant Living's rooms, amenities, and facilities.">
+    <meta name="twitter:image" content="assets/img/logo/android-chrome-512x512.png">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/logo/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo/favicon_io/favicon-16x16.png">
+    <link rel="shortcut icon" href="assets/img/logo/favicon_io/favicon.ico">
+    <link rel="manifest" href="assets/img/logo/favicon_io/site.webmanifest">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#0D2A3D">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
@@ -56,7 +94,7 @@
         <div class="tp-offcanvas-wrapper">
             <div class="tp-offcanvas-header d-flex align-items-center justify-content-between mb-40">
                 <div class="tp-offcanvas-logo">
-                    <a href="index.html"><img data-width="163" src="assets/img/logo/logo-black.png" alt="logo-ing"></a>
+                    <a href="/"><img data-width="163" src="assets/img/logo/logo-black.png" alt="logo-ing"></a>
                 </div>
                 <div class="tp-offcanvas-button">
                     <button class="tp-offcanvas-button-close tp-offcanvas-close-toggle"><i class="fas fa-times"></i>
@@ -140,7 +178,7 @@
                     <div class="container">
                       <div class="tp-breadcrumb">
                         <div class="tp-breadcrumb-menu tp-flex-center pt-35">
-                          <span><a href="index.html">Home</a></span>
+                          <span><a href="/">Home</a></span>
                           <span class="tp-breadcrumb-dvdr">-</span>
                           <span>Gallery</span>
                         </div>

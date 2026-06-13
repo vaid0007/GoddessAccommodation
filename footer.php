@@ -9,10 +9,10 @@
                                 <div class="tp-footer-info">
                                    <div class="tp-footer-content mb-45">
                                     <div class="mb-3">
-                                <a href="index.html"><img data-width="300" src="assets/img/logo/logo2.png" alt=""></a>
+                                <a href="/"><img data-width="300" src="assets/img/logo/logo2.png" alt=""></a>
                             </div>
     <p class="tp-footer-info-deg white-rgba">
-        We offer premium PG accommodation for boys and girls with modern amenities, hygienic meals, secure living spaces, and a welcoming atmosphere designed for comfort and convenience.
+        We offer premium PG accommodation for girls with modern amenities, hygienic meals, secure living spaces, and a welcoming atmosphere designed for comfort and convenience.
     </p>
 
 </div>
@@ -25,11 +25,11 @@
                             <div class="tp-footer-widgets tp-footer-widgets-white mb-30 tp_fade_anim" data-delay=".2">
                                 <h4 class="tp-footer-widgets-title white-rgba mb-25">Company</h4>
                                 <ul>
-                                    <li><a href="index.php">Home</a></li>
-                                    <li><a href="about.php">About us</a></li>
-                                    <li><a href="services.php">Services</a></li>
-                                    <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="Contact.php">Contact</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="about">About us</a></li>
+                                    <li><a href="services">Services</a></li>
+                                    <li><a href="gallery">Gallery</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -37,11 +37,11 @@
                             <div class="tp-footer-widgets tp-footer-widgets-white tp_fade_anim" data-delay=".3">
                                 <h4 class="tp-footer-widgets-title white-rgba mb-25">SERVICES</h4>
                                 <ul>
-                                        <li><a href="accommodation.php"><span>Accommodation</span></a></li>
-    <li><a href="food-dining.php"><span>Food & Dining</span></a></li>
-    <li><a href="safety-security.php"><span>Safety & Security</span></a></li>
-    <li><a href="facilities-amenities.php"><span>Facilities & Amenities</span></a></li>
-    <li><a href="housekeeping-laundry.php"><span>Housekeeping & Laundry</span></a></li>
+                                        <li><a href="accommodation"><span>Accommodation</span></a></li>
+    <li><a href="food-dining"><span>Food & Dining</span></a></li>
+    <li><a href="safety-security"><span>Safety & Security</span></a></li>
+    <li><a href="facilities-amenities"><span>Facilities & Amenities</span></a></li>
+    <li><a href="housekeeping-laundry"><span>Housekeeping & Laundry</span></a></li>
                                 </ul>
                             </div>
                         </div>
