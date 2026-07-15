@@ -8011,7 +8011,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 
 .tpservices {
-  min-height: 500px;
+  min-height: 350px;
   padding: 50px 59px;
   transition: 0.4s;
   box-shadow: transparent;

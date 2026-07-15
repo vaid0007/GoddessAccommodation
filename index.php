@@ -348,12 +348,7 @@
                       </a>
                     </div>
                     <div class="tpservices__back-text">GOODESS</div>
-                    <div class="tpservices__img p-absolute">
-                      <img
-                        src="assets/img/services/services-img-5.png"
-                        alt=""
-                      />
-                    </div>
+
                   </div>
                 </div>
                 <div
@@ -396,12 +391,6 @@
                       </a>
                     </div>
                     <div class="tpservices__back-text">GOODESS</div>
-                    <div class="tpservices__img p-absolute">
-                      <img
-                        src="assets/img/services/services-img-6.png"
-                        alt=""
-                      />
-                    </div>
                   </div>
                 </div>
                 <div
@@ -443,12 +432,6 @@
                       </a>
                     </div>
                     <div class="tpservices__back-text">GOODESS</div>
-                    <div class="tpservices__img p-absolute">
-                      <img
-                        src="assets/img/services/services-img-7.png"
-                        alt=""
-                      />
-                    </div>
                   </div>
                 </div>
               </div>
