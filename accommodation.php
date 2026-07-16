@@ -117,20 +117,21 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Clean and spacious common lounge for girls at Vedant Living PG" title="Clean and spacious common lounge for girls at Vedant Living PG"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Quiet study space for students at Vedant Living girls PG" title="Quiet study space for students at Vedant Living girls PG"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Reception area of Vedant Living girls PG offering a welcoming environment" title="Reception area of Vedant Living girls PG offering a welcoming environment"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Clean and hygienic bathroom facilities at Vedant Living girls PG" title="Clean and hygienic bathroom facilities at Vedant Living girls PG"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
           <h3 class="tp-offcanvas-title mb-7">Information</h3>
+          <h6></h6>
           <ul>
             <li><a href="tel:+99926542563">+999 2654 2563</a></li>
             <li><a href="mailto:landor@info@.com">landor@info@.com</a></li>
@@ -245,7 +246,7 @@
                 style="
                   background-image:
                     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                    url(&quot;assets/img/hero/contact_hero.png&quot;);
+                    url(&quot;assets/img/img/11.jpeg&quot;);
                   background-size: cover;
                   background-position: center;
                 "
@@ -416,7 +417,8 @@
                           <div class="tp-sidebar-cta-img br-10 pt-35 mb-10">
                             <img
                               src="assets/img/services/services-sidebar-thumb.html"
-                              alt=""
+                              alt="Professional housekeeping and laundry services at Vedant Living girls PG"
+                              title="Professional housekeeping and laundry services at Vedant Living girls PG"
                             />
                           </div>
                         </div>
@@ -439,8 +441,9 @@
                       </h3>
                       <img
                         class="tp-services-details-img br-20 mb-40"
-                        src="assets/img/img/1.jpeg"
-                        alt=""
+                        src="assets/img/img/23.jpeg"
+                        alt="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation"
+                        title="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation"
                       />
                       <p class="tp-text-black fw-500 mb-30">
                         Vedant Living offers premium PG accommodation for girls

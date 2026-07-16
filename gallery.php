@@ -168,7 +168,7 @@
                 style="
                   background-image:
                     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                    url(&quot;assets/img/hero/contact_hero.png&quot;);
+                    url(&quot;assets/img/img/20.jpeg&quot;);
                   background-size: cover;
                   background-position: center;
                 "
@@ -184,7 +184,7 @@
                         </div>
                         <h1 class="tp-breadcrumb-title tp-text-white margin-0">
                           Gallery
-                        </h1>
+                        </h1><h2></h2>
                       </div>
                     </div>
                   </div>
@@ -199,17 +199,21 @@
     <div class="container">
         <div class="row g-4">
 
-            <?php for($i = 1; $i <= 10; $i++) { ?>
+            <?php for($i = 1; $i <=10; $i++) { ?>
                 <div class="col-lg-4 col-md-6">
                     <div class="gallery-item">
                         <a href="assets/img/img/<?php echo $i; ?>.jpeg" data-fancybox="gallery">
                             <img src="assets/img/img/<?php echo $i; ?>.jpeg"
-                                 alt="Gallery Image <?php echo $i; ?>"
+                                 alt="Gallery Images <?php echo $i; ?>"
+                                 title="Gallery Images <?php echo $i; ?>"
                                  class="img-fluid rounded">
                         </a>
                     </div>
                 </div>
             <?php } ?>
+
+            <h5></h5>
+            <h6></h6>
 
         </div>
     </div>

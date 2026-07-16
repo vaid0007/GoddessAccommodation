@@ -148,16 +148,16 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment" title="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities" title="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Hygienic home-style meals served at Vedant Living girls PG dining area" title="Hygienic home-style meals served at Vedant Living girls PG dining area"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Professional housekeeping and laundry services at Vedant Living girls PG" title="Professional housekeeping and laundry services at Vedant Living girls PG"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
@@ -947,6 +947,7 @@
                             hygienic, and the staff is always helpful. I feel
                             safe and comfortable here, just like at home.
                           </h3>
+                         <h5></h5>
                         </div>
                       </div>
                       <div class="swiper-slide">
@@ -958,6 +959,7 @@
                             Highly recommended for anyone looking for a
                             hassle-free stay.
                           </h3>
+                          <h6></h6>
                         </div>
                       </div>
                       <div class="swiper-slide">
@@ -1077,7 +1079,7 @@
           >
             <div
               class="tp-choose-bg tp-bg-overlay tp-choose-spacing tp-bg tp-choose-slide-2 br-20 fix"
-              data-background="assets/img/img/6.jpeg"
+              data-background="assets/img/img/6.jpeg" alt="Vedant Living girls PG accommodation with safe and comfortable living spaces" title="Vedant Living girls PG accommodation with safe and comfortable living spaces"
             >
               <div class="container">
                 <div class="tp-choose-heading">

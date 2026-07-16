@@ -117,16 +117,16 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Vedant Living girls PG accommodation with safe and comfortable living spaces" title="Vedant Living girls PG accommodation with safe and comfortable living spaces"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment" title="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities" title="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Hygienic home-style meals served at Vedant Living girls PG dining area" title="Hygienic home-style meals served at Vedant Living girls PG dining area"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
@@ -245,7 +245,7 @@
                 style="
                   background-image:
                     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                    url(&quot;assets/img/hero/contact_hero.png&quot;);
+                    url(&quot;assets/img/img/14.jpeg&quot;);
                   background-size: cover;
                   background-position: center;
                 "
@@ -413,10 +413,12 @@
                             Let’s Start Work Together
                             <a href="tel:+991458963649">+99 145 896 3649</a>
                           </h3>
+                          <h6></h6>
                           <div class="tp-sidebar-cta-img br-10 pt-35 mb-10">
                             <img
                               src="assets/img/services/services-sidebar-thumb.html"
-                              alt=""
+                              alt="Professional housekeeping and laundry services at Vedant Living girls PG"
+                              title="Professional housekeeping and laundry services at Vedant Living girls PG"
                             />
                           </div>
                         </div>
@@ -438,8 +440,9 @@
 
 <img
     class="tp-services-details-img br-20 mb-40"
-    src="assets/img/img/4.jpeg"
+    src="assets/img/img/20.jpeg"
     alt="Facilities & Amenities"
+    title="Facilities & Amenities"
 />
 
 <p class="tp-text-black fw-500 mb-30">

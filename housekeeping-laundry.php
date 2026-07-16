@@ -117,16 +117,16 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment" title="Girls staying comfortably at Vedant Living PG with modern facilities and a homely environment"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities" title="Fully furnished girls PG room at Vedant Living with comfortable beds and modern amenities"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Hygienic home-style meals served at Vedant Living girls PG dining area" title="Hygienic home-style meals served at Vedant Living girls PG dining area"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Professional housekeeping and laundry services at Vedant Living girls PG" title="Professional housekeeping and laundry services at Vedant Living girls PG"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
@@ -245,7 +245,7 @@
                 style="
                   background-image:
                     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                    url(&quot;assets/img/hero/contact_hero.png&quot;);
+                    url(&quot;assets/img/img/32.png&quot;);
                   background-size: cover;
                   background-position: center;
                 "
@@ -416,7 +416,8 @@
                           <div class="tp-sidebar-cta-img br-10 pt-35 mb-10">
                             <img
                               src="assets/img/services/services-sidebar-thumb.html"
-                              alt=""
+                              alt="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation"
+                              title="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation"
                             />
                           </div>
                         </div>
@@ -440,8 +441,9 @@
 
 <img
     class="tp-services-details-img br-20 mb-40"
-    src="assets/img/img/5.jpeg"
+    src="assets/img/img/33.png"
     alt="Housekeeping & Laundry"
+    title="Housekeeping & Laundry"
 />
 
 <p class="tp-text-black fw-500 mb-30">
@@ -461,6 +463,7 @@
                       <h4 class="tp-services-support-title-larg mb-35">
     Professional Care For Everyday Comfort
 </h4>
+<h6></h6>
                       <div class="row">
                         <div class="col-md-6">
                           <div class="tp-services-support tp-flex-center mb-20">

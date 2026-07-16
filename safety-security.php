@@ -117,16 +117,16 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Quiet study space for students at Vedant Living girls PG" title="Quiet study space for students at Vedant Living girls PG"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Reception area of Vedant Living girls PG offering a welcoming environment" title="Reception area of Vedant Living girls PG offering a welcoming environment"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Clean and hygienic bathroom facilities at Vedant Living girls PG" title="Clean and hygienic bathroom facilities at Vedant Living girls PG"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Modern amenities including WiFi, housekeeping, laundry, and meals at Vedant Living" title="Modern amenities including WiFi, housekeeping, laundry, and meals at Vedant Living"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
@@ -245,7 +245,7 @@
                 style="
                   background-image:
                     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-                    url(&quot;assets/img/hero/contact_hero.png&quot;);
+                    url(&quot;assets/img/img/31.png&quot;);
                   background-size: cover;
                   background-position: center;
                 "
@@ -413,10 +413,12 @@
                             Let’s Start Work Together
                             <a href="tel:+991458963649">+99 145 896 3649</a>
                           </h3>
+                          <h6></h6>
                           <div class="tp-sidebar-cta-img br-10 pt-35 mb-10">
                             <img
                               src="assets/img/services/services-sidebar-thumb.html"
-                              alt=""
+                              alt="Clean and spacious common lounge for girls at Vedant Living PG"
+                              title="Clean and spacious common lounge for girls at Vedant Living PG"
                             />
                           </div>
                         </div>
@@ -441,6 +443,7 @@
     class="tp-services-details-img br-20 mb-40"
     src="assets/img/img/3.jpeg"
     alt="Safety & Security"
+    title="Safety & Security"
 />
 
 <p class="tp-text-black fw-500 mb-30">

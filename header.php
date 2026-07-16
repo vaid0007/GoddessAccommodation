@@ -28,7 +28,7 @@
                     <div class="row gx-0 tp-align-center">
                         <div class="col-xl-3 col-lg-4 col-md-5 col-5">
                             <div class="tp-header-logo">
-                                <a href="/"><img data-width="163" src="assets/img/logo/logo2.png" alt="logo-black"></a>
+                                <a href="/"><img data-width="163" src="assets/img/logo/logo2.png" alt="logo-black" title="logo-black"></a>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-2 col-md-1 col-2">

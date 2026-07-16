@@ -9,7 +9,7 @@
                                 <div class="tp-footer-info">
                                    <div class="tp-footer-content mb-45">
                                     <div class="mb-3">
-                                <a href="/"><img data-width="300" src="assets/img/logo/logo2.png" alt=""></a>
+                                <a href="/"><img data-width="300" src="assets/img/logo/logo2.png" alt="Vedant Living girls PG accommodation with safe and comfortable living spaces" title="Vedant Living girls PG accommodation with safe and comfortable living spaces"></a>
                             </div>
     <p class="tp-footer-info-deg white-rgba">
         We offer premium PG accommodation for girls with modern amenities, hygienic meals, secure living spaces, and a welcoming atmosphere designed for comfort and convenience.
@@ -50,6 +50,7 @@
     <h4 class="tp-footer-widgets-title white-rgba mb-25">Our Location</h4>
 
     <div class="tp-footer-map">
+        <p class="text-white">J5WQ+884, Pooja Park Rd, Block 15A, WEA, Karol Bagh, New Delhi, Delhi, 110005</p>
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.462623276513!2d77.18554772530128!3d28.645863625657473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0300108b8ea1%3A0xff7efee1ebb526cf!2sGoddess%20Accommodation-%20PG%20FOR%20GIRLS!5e0!3m2!1sen!2sin!4v1781174240405!5m2!1sen!2sin"
             width="100%"

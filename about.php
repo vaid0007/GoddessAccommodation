@@ -157,7 +157,7 @@
      <main>
 
     <!-- breadcrumb-area,start  -->
-     <section class="tp-breadcrumb-area tp-bg tp-overlay p-relative" data-background="assets/img/breadcrumb/breadcrumb-bg.html">
+     <!-- <section class="tp-breadcrumb-area tp-bg tp-overlay p-relative" data-background="assets/img/img/11.jpeg">
         <div class="tp-breadcrumb-shape p-absolute">
             <img src="assets/img/breadcrumb/breadcrumb-shape.html" alt="">
         </div>
@@ -171,8 +171,52 @@
                 <h1 class="tp-breadcrumb-title tp-text-white margin-0">About us</h1>
             </div>
         </div>
-     </section>
+     </section> -->
     <!-- breadcrumb-area,end  -->
+
+    <!-- hero-area,start  -->
+          <section class="tp-hero-area tp-hero-solid-2">
+            <div class="container-wide">
+              <div
+                class="tp-hero-spacing-3 tp-hero-bg p-relative br-20 fix"
+                style="
+                  background-image:
+                    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                    url(&quot;assets/img/img/11.jpeg&quot;);
+                  background-size: cover;
+                  background-position: center;
+                "
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-xl-5 col-lg-8 col-md-10">
+                      <div class="tp-hero-heading">
+                        <h1
+                          class="tp-section-title-larg tp-hero-title-mid tp-text-white mb-30 tp_fade_anim"
+                          data-delay=".1"
+                          data-duration=".9"
+                        >
+                          Vedant Living PG<br />
+                          for Girls.<br />
+                          
+                        </h1>
+                        <div
+                          class="tp_fade_anim"
+                          data-delay=".3"
+                          data-duration=".9"
+                        >
+                          <p class="tp-hero-deg fw-500 tp-text-white">
+                            we provide safe, comfortable, and well-maintained PG accommodation exclusively for girls.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- hero-area,end  -->
 
     <!-- about-area,start  -->
      <section class="tp-about-area tp-about-spacing-3 p-relative fix">
@@ -189,9 +233,8 @@
                 <div class="col-lg-6">
                     <div class="tp-about-image br-20 p-relative">
                         <div class="anim-zoomin-wrap br-20">
-                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                           <img class="anim-zoomin" src="assets/img/img/34.jpeg" alt="">
                         </div>
-                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -321,9 +364,8 @@
                 <div class="col-lg-6">
                     <div class="tp-about-image br-20 p-relative">
                         <div class="anim-zoomin-wrap br-20">
-                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                           <img class="anim-zoomin" src="assets/img/img/35.jpeg" alt="">
                         </div>
-                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
                     </div>
                 </div>
             </div>
@@ -331,9 +373,8 @@
                 <div class="col-lg-6">
                     <div class="tp-about-image br-20 p-relative">
                         <div class="anim-zoomin-wrap br-20">
-                           <img class="anim-zoomin" src="assets/img/about/about-thumb-2.jpg" alt="">
+                           <img class="anim-zoomin" src="assets/img/img/36.jpeg" alt="">
                         </div>
-                       <img class="tp-about-shape-parson p-absolute tp_fade_anim" data-delay=".2" data-duration=".9" src="assets/img/about/about-parson.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -397,7 +438,7 @@
     <!-- testimonail-area,start  -->
     <section class="tp-testimonail-area">
         <div class="container-wide">
-            <div class="tp-solid-bg tp-bg br-20 p-relative jarallax" data-background="assets/img/solid-bg/solid-bg.jpg">
+            <div class="tp-solid-bg tp-bg br-20 p-relative jarallax" data-background="assets/img/img/16.jpeg">
                 <!-- <div class="tp-testi-card">
                     <div class="tp-testi-card-left">
                         <div class="tp-testi-card-awards">
@@ -488,7 +529,7 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/1.jpg" alt="24/7 Security" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/1.jpg" alt="24/7 Security" title="24/7 Security" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">24/7 Security</h3>
@@ -504,7 +545,7 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/2.jpg" alt="Furnished Rooms" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/2.jpg" alt="Furnished Rooms" title="Furnished Rooms" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">Furnished Rooms</h3>
@@ -520,7 +561,7 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/3.jpg" alt="High Speed WiFi" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/3.jpg" alt="High Speed WiFi" title="High Speed WiFi" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">High-Speed WiFi</h3>
@@ -536,10 +577,11 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/4.jpg" alt="Meals" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/4.jpg" alt="Meals" title="Meals" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">Healthy Meals</h3>
+                        <h6></h6>
                         <span class="fw-500 d-inline-block mb-30 tp-text-white">
                             Home-Style Food Daily
                         </span>
@@ -552,7 +594,7 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/5.jpg" alt="Housekeeping" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/5.jpg" alt="Housekeeping" title="Housekeeping" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">Housekeeping</h3>
@@ -568,7 +610,7 @@
     <div class="swiper-slide">
         <div class="tpteam__circle">
             <div class="tpteam__circle-thumb p-relative">
-                <img src="assets/img/about/6.jpg" alt="Community" style="width:100%; height:350px; object-fit:cover;">
+                <img src="assets/img/about/6.jpg" alt="Community" title="Community" style="width:100%; height:350px; object-fit:cover;">
                 <div class="tpteam__circle--content p-absolute">
                     <div class="tpteam__circle--content-wrap">
                         <h3 class="tpteam__circle-title tp-text-white">Friendly Community</h3>
@@ -635,6 +677,7 @@
                       >
                         Frequently asked<span>questions!</span>
                       </h2>
+                      <h5></h5>
                     </div>
                     <div
                       class="tp-faq-btn pt-45 tp_fade_anim"

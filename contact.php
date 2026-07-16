@@ -129,16 +129,16 @@
         </div>
         <div class="tp-offcanvas-gallery mb-30">
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="Contact Vedant Living for safe and comfortable girls PG accommodation" title="Contact Vedant Living for safe and comfortable girls PG accommodation"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-2.jpg"
-            ><img src="assets/img/project/project-gullary-2.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-2.jpg" alt="Contact Vedant Living for safe and comfortable girls PG accommodation" title="Contact Vedant Living for safe and comfortable girls PG accommodation"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-3.jpg"
-            ><img src="assets/img/project/project-gullary-3.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-3.jpg" alt="Professional housekeeping and laundry services at Vedant Living girls PG" title="Professional housekeeping and laundry services at Vedant Living girls PG"
           /></a>
           <a class="popup-image" href="assets/img/project/project-gullary-1.jpg"
-            ><img src="assets/img/project/project-gullary-1.jpg" alt=""
+            ><img src="assets/img/project/project-gullary-1.jpg" alt="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation" title="24x7 security and CCTV surveillance at Vedant Living girls PG accommodation"
           /></a>
         </div>
         <div class="tp-offcanvas-cta mb-30">
@@ -300,7 +300,7 @@
                         >
                         <h2 class="tp-section-title">
                           How to you<span>find us.</span>
-                        </h2>
+                        </h2><h5></h5>
                       </div>
                     </div>
                     <div class="col-lg-3 col-md-4 tp_fade_anim" data-delay=".3">
@@ -340,6 +340,7 @@
                             <h3 class="tp-contect-cta-title margin-0">
                               <a href="tel:+91 9999071711">+91 9999071711</a>
                             </h3>
+                            <h6></h6>
                           </div>
                         </div>
                         <div class="tp-contect-cta-item tp-flex-center mb-20">
